@@ -1,0 +1,3719 @@
+[
+  {
+    "item_name": "AB-PHYLINE N TABLET           10'S",
+    "qty": 45,
+    "mrp": 209,
+    "rate": 149.29,
+    "cost": 134.36
+  },
+  {
+    "item_name": "AB-PHYLLINE CAP               10'S",
+    "qty": 84,
+    "mrp": 162,
+    "rate": 115.71,
+    "cost": 104.14
+  },
+  {
+    "item_name": "AB-PHYLLINE SR 200 TAB        10'S",
+    "qty": 116,
+    "mrp": 252,
+    "rate": 180,
+    "cost": 162
+  },
+  {
+    "item_name": "ADMENTA 10 TAB10'S",
+    "qty": 10,
+    "mrp": 208,
+    "rate": 148.57,
+    "cost": 133.71
+  },
+  {
+    "item_name": "ADMENTA 5 TAB 10'S",
+    "qty": 16,
+    "mrp": 119,
+    "rate": 85,
+    "cost": 76.5
+  },
+  {
+    "item_name": "ALZOLAM-0.25 TAB              10'S",
+    "qty": 30,
+    "mrp": 19.15,
+    "rate": 13.68,
+    "cost": 12.31
+  },
+  {
+    "item_name": "ALZOLAM-0.5 TAB               10'S",
+    "qty": 30,
+    "mrp": 40.1,
+    "rate": 28.64,
+    "cost": 25.78
+  },
+  {
+    "item_name": "AMIXIDE TAB   10'S",
+    "qty": 23,
+    "mrp": 63.5,
+    "rate": 45.36,
+    "cost": 40.82
+  },
+  {
+    "item_name": "AMIXIDE-H TAB 10'S",
+    "qty": 346,
+    "mrp": 51,
+    "rate": 36.43,
+    "cost": 32.79
+  },
+  {
+    "item_name": "ANGIZEM-30 TAB10'S",
+    "qty": 11,
+    "mrp": 26.88,
+    "rate": 19.2,
+    "cost": 17.28
+  },
+  {
+    "item_name": "ANGIZEM-CD 120 CAP            10'S",
+    "qty": 12,
+    "mrp": 206,
+    "rate": 147.14,
+    "cost": 132.43
+  },
+  {
+    "item_name": "ANGIZEM-CD 90 CAP             10'S",
+    "qty": 22,
+    "mrp": 119.4,
+    "rate": 85.29,
+    "cost": 76.76
+  },
+  {
+    "item_name": "ANGIZEM-DP 90 TAB             10'S",
+    "qty": 7,
+    "mrp": 119.4,
+    "rate": 85.29,
+    "cost": 76.76
+  },
+  {
+    "item_name": "ANOFER-SP TAB 10'S",
+    "qty": 7,
+    "mrp": 68,
+    "rate": 46.1,
+    "cost": 41.49
+  },
+  {
+    "item_name": "ANXOZAP-10 TAB10'S",
+    "qty": 7,
+    "mrp": 115,
+    "rate": 82.14,
+    "cost": 73.93
+  },
+  {
+    "item_name": "AQSUSTEN-25   1'ML",
+    "qty": 10,
+    "mrp": 114,
+    "rate": 81.43,
+    "cost": 73.29
+  },
+  {
+    "item_name": "AQUAZIDE-12.5 TAB             10'S",
+    "qty": 56,
+    "mrp": 10.41,
+    "rate": 7.44,
+    "cost": 6.69
+  },
+  {
+    "item_name": "AQUAZIDE-25 TAB               10'S",
+    "qty": 29,
+    "mrp": 17.47,
+    "rate": 12.48,
+    "cost": 11.23
+  },
+  {
+    "item_name": "ARPIZOL-10 TAB10'S",
+    "qty": 17,
+    "mrp": 154.5,
+    "rate": 110.36,
+    "cost": 99.32
+  },
+  {
+    "item_name": "ARPIZOL-15 TAB10'S",
+    "qty": 16,
+    "mrp": 191.8,
+    "rate": 137,
+    "cost": 123.3
+  },
+  {
+    "item_name": "ARPIZOL-5 TAB 10'S",
+    "qty": 6,
+    "mrp": 92.5,
+    "rate": 66.07,
+    "cost": 59.46
+  },
+  {
+    "item_name": "ATTENTROL-10 CAP              10'S",
+    "qty": " -2",
+    "mrp": 76,
+    "rate": 54.29,
+    "cost": 48.86
+  },
+  {
+    "item_name": "AXCER TAB     14'S",
+    "qty": 50,
+    "mrp": 420,
+    "rate": 300,
+    "cost": 270
+  },
+  {
+    "item_name": "AXCER-60 TAB  14'S",
+    "qty": 13,
+    "mrp": 392,
+    "rate": 280,
+    "cost": 252
+  },
+  {
+    "item_name": "AZTOGOLD-10 CAP               10'S",
+    "qty": 11,
+    "mrp": 62,
+    "rate": 44.29,
+    "cost": 39.86
+  },
+  {
+    "item_name": "AZTOGOLD-20 CAP               10'S",
+    "qty": 13,
+    "mrp": 93,
+    "rate": 66.43,
+    "cost": 59.79
+  },
+  {
+    "item_name": "AZTOLET-10 TAB10'S",
+    "qty": 20,
+    "mrp": 186,
+    "rate": 132.86,
+    "cost": 119.57
+  },
+  {
+    "item_name": "AZTOLET-20 TAB10'S",
+    "qty": 7,
+    "mrp": 246,
+    "rate": 175.71,
+    "cost": 158.14
+  },
+  {
+    "item_name": "AZTOR-10 TAB  15'S",
+    "qty": 35,
+    "mrp": 74.08,
+    "rate": 52.91,
+    "cost": 47.62
+  },
+  {
+    "item_name": "AZTOR-20 TAB  15'S",
+    "qty": 13,
+    "mrp": 247.75,
+    "rate": 176.96,
+    "cost": 159.27
+  },
+  {
+    "item_name": "AZTOR-40 TAB  15'S",
+    "qty": 18,
+    "mrp": 289.12,
+    "rate": 206.51,
+    "cost": 185.86
+  },
+  {
+    "item_name": "AZTOR-5 TAB   15'S",
+    "qty": 21,
+    "mrp": 105,
+    "rate": 75,
+    "cost": 67.5
+  },
+  {
+    "item_name": "AZTOR-ASP 75 TAB              10'S",
+    "qty": 26,
+    "mrp": 42,
+    "rate": 30,
+    "cost": 27
+  },
+  {
+    "item_name": "BENFOMET FORTE10'S",
+    "qty": 5,
+    "mrp": 255,
+    "rate": 182.14,
+    "cost": 163.93
+  },
+  {
+    "item_name": "BENFOMET PLUS CAP             10'S",
+    "qty": 17,
+    "mrp": 185,
+    "rate": 132.14,
+    "cost": 118.93
+  },
+  {
+    "item_name": "BETACAP TR 20 TAB             10'S",
+    "qty": 12,
+    "mrp": 27.5,
+    "rate": 19.64,
+    "cost": 17.68
+  },
+  {
+    "item_name": "BETACAP TR 40 CAP             10'S",
+    "qty": 88,
+    "mrp": 47.25,
+    "rate": 33.75,
+    "cost": 30.38
+  },
+  {
+    "item_name": "BETACAP TR 60 CAP             10'S",
+    "qty": 6,
+    "mrp": 80,
+    "rate": 57.14,
+    "cost": 51.43
+  },
+  {
+    "item_name": "BETACAP TR 80 CAP             10'S",
+    "qty": 23,
+    "mrp": 71.65,
+    "rate": 51.18,
+    "cost": 46.06
+  },
+  {
+    "item_name": "BETACAP-20 TAB10'S",
+    "qty": 18,
+    "mrp": 35.5,
+    "rate": 25.36,
+    "cost": 22.82
+  },
+  {
+    "item_name": "BETACAP-PLUS-10 CAP           10'S",
+    "qty": 24,
+    "mrp": 147,
+    "rate": 105,
+    "cost": 94.5
+  },
+  {
+    "item_name": "BETACAP-PLUS-5 CAP            10'S",
+    "qty": 18,
+    "mrp": 110,
+    "rate": 78.57,
+    "cost": 70.71
+  },
+  {
+    "item_name": "BETAVERT 16 TAB               10'S",
+    "qty": 34,
+    "mrp": 155,
+    "rate": 110.71,
+    "cost": 99.64
+  },
+  {
+    "item_name": "BETAVERT 24 TAB               10'S",
+    "qty": 16,
+    "mrp": 210,
+    "rate": 150,
+    "cost": 135
+  },
+  {
+    "item_name": "BETAVERT TAB  10'S",
+    "qty": 49,
+    "mrp": 77,
+    "rate": 55,
+    "cost": 49.5
+  },
+  {
+    "item_name": "BETAVERT-OD 24 TAB            10'S",
+    "qty": 54,
+    "mrp": 210,
+    "rate": 150,
+    "cost": 135
+  },
+  {
+    "item_name": "BETAVERT-OD 48 TAB            10'S",
+    "qty": 8,
+    "mrp": 295,
+    "rate": 210.71,
+    "cost": 189.64
+  },
+  {
+    "item_name": "BREVIPIL 25MG S10             10 S",
+    "qty": 10,
+    "mrp": 85.6,
+    "rate": 61.14,
+    "cost": 55.03
+  },
+  {
+    "item_name": "BREVIPIL 50MG S10",
+    "qty": 47,
+    "mrp": 161,
+    "rate": 115,
+    "cost": 103.5
+  },
+  {
+    "item_name": "BRILLO 180-TAB10;S",
+    "qty": 12,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "BRIMOLOL DROP 1S",
+    "qty": 7,
+    "mrp": 464,
+    "rate": 331.43,
+    "cost": 298.29
+  },
+  {
+    "item_name": "BUDEZ-CR CAP  10'S",
+    "qty": 9,
+    "mrp": 231.5,
+    "rate": 165.36,
+    "cost": 148.82
+  },
+  {
+    "item_name": "BUPRON-SR 150 TAB             10'S",
+    "qty": 15,
+    "mrp": 142.9,
+    "rate": 102.07,
+    "cost": 91.86
+  },
+  {
+    "item_name": "BUPRON-XL 150 TAB             10'S",
+    "qty": 31,
+    "mrp": 179,
+    "rate": 127.86,
+    "cost": 115.07
+  },
+  {
+    "item_name": "CABERLIN-0.25 TAb             4'S",
+    "qty": 9,
+    "mrp": 206,
+    "rate": 147.14,
+    "cost": 132.43
+  },
+  {
+    "item_name": "CABERLIN-0.5 TAB              4'S",
+    "qty": 11,
+    "mrp": 459,
+    "rate": 327.86,
+    "cost": 295.07
+  },
+  {
+    "item_name": "CABGOLIN-0.25 TAB             4'S",
+    "qty": 22,
+    "mrp": 225,
+    "rate": 160.71,
+    "cost": 144.64
+  },
+  {
+    "item_name": "CABGOLIN-0.5 TB               4'S",
+    "qty": 55,
+    "mrp": 459,
+    "rate": 327.86,
+    "cost": 295.07
+  },
+  {
+    "item_name": "CANSOFT-CL TAB3'S",
+    "qty": 42,
+    "mrp": 136,
+    "rate": 97.14,
+    "cost": 87.43
+  },
+  {
+    "item_name": "CARDIVAS IN 3.125MG + 5MG S10 10 S",
+    "qty": 15,
+    "mrp": 215,
+    "rate": 153.57,
+    "cost": 138.21
+  },
+  {
+    "item_name": "CARDIVAS-12.5 TAB             10'S",
+    "qty": 13,
+    "mrp": 122,
+    "rate": 87.14,
+    "cost": 78.43
+  },
+  {
+    "item_name": "CARDIVAS-25 TAB               10'S",
+    "qty": 13,
+    "mrp": 12,
+    "rate": 10,
+    "cost": 127.93
+  },
+  {
+    "item_name": "CARDIVAS-3.125 TAB            10'S",
+    "qty": 261,
+    "mrp": 43.5,
+    "rate": 31.07,
+    "cost": 27.96
+  },
+  {
+    "item_name": "CARDIVAS-6.25 TAB             10'S",
+    "qty": 137,
+    "mrp": 70,
+    "rate": 50,
+    "cost": 45
+  },
+  {
+    "item_name": "CARDIVAS-CR 10 TAB            10'S",
+    "qty": 201,
+    "mrp": 107,
+    "rate": 76.43,
+    "cost": 68.79
+  },
+  {
+    "item_name": "CARDIVAS-CR 20 TAB            10'S",
+    "qty": 63,
+    "mrp": 166,
+    "rate": 118.57,
+    "cost": 106.71
+  },
+  {
+    "item_name": "CARDIVAS-CR 40TAB             10S",
+    "qty": 6,
+    "mrp": 213,
+    "rate": 152.14,
+    "cost": 136.93
+  },
+  {
+    "item_name": "CHLORPROMAZINE-100 TAB        10'S",
+    "qty": 42,
+    "mrp": 11.25,
+    "rate": 8.04,
+    "cost": 7.23
+  },
+  {
+    "item_name": "CHLORPROMAZINE-50 TAB         10'S",
+    "qty": 80,
+    "mrp": 7.5,
+    "rate": 5.36,
+    "cost": 4.82
+  },
+  {
+    "item_name": "CLOFRANIL TAB 10'S",
+    "qty": 13,
+    "mrp": 68.95,
+    "rate": 49.25,
+    "cost": 44.33
+  },
+  {
+    "item_name": "CLOFRANIL-SR TAB              10'S",
+    "qty": 14,
+    "mrp": 178.3,
+    "rate": 127.36,
+    "cost": 114.62
+  },
+  {
+    "item_name": "CLOPILET TAB  15'S",
+    "qty": 48,
+    "mrp": 129.4,
+    "rate": 92.43,
+    "cost": 83.19
+  },
+  {
+    "item_name": "CLOPILET-A 150 TAB            15'S",
+    "qty": 48,
+    "mrp": 89.5,
+    "rate": 63.93,
+    "cost": 57.54
+  },
+  {
+    "item_name": "CLOPILET-A 75 TAB             10'S",
+    "qty": 40,
+    "mrp": 88,
+    "rate": 62.86,
+    "cost": 56.57
+  },
+  {
+    "item_name": "D-VENIZ 50 TAB10'S",
+    "qty": 10,
+    "mrp": 181,
+    "rate": 129.29,
+    "cost": 116.36
+  },
+  {
+    "item_name": "DARILONG 7.5 TAB              10'S",
+    "qty": 7,
+    "mrp": 316,
+    "rate": 225.71,
+    "cost": 203.14
+  },
+  {
+    "item_name": "DAZTOR-10 TAB 10'S",
+    "qty": 10,
+    "mrp": 154,
+    "rate": 110,
+    "cost": 99
+  },
+  {
+    "item_name": "DEPOPRED-2ML VIAL             1'S",
+    "qty": 69,
+    "mrp": 79.35,
+    "rate": 56.68,
+    "cost": 51.01
+  },
+  {
+    "item_name": "DESLOR-5 TAB  10'S",
+    "qty": 15,
+    "mrp": 159,
+    "rate": 113.57,
+    "cost": 102.21
+  },
+  {
+    "item_name": "DIAMOX TABLETS 250MG S15      15 S",
+    "qty": 47,
+    "mrp": 63.85,
+    "rate": 48.65,
+    "cost": 43.78
+  },
+  {
+    "item_name": "DICAL-D TAB   10'S",
+    "qty": 8,
+    "mrp": 149.5,
+    "rate": 101.36,
+    "cost": 91.22
+  },
+  {
+    "item_name": "DICALIS TAB   10'S",
+    "qty": 71,
+    "mrp": 155,
+    "rate": 105.09,
+    "cost": 94.58
+  },
+  {
+    "item_name": "DICORATE-ER 125 TAB           10'S",
+    "qty": 16,
+    "mrp": 56.5,
+    "rate": 40.36,
+    "cost": 36.32
+  },
+  {
+    "item_name": "DICORATE-ER 1GM TAB           10'S",
+    "qty": 12,
+    "mrp": 228,
+    "rate": 162.86,
+    "cost": 146.57
+  },
+  {
+    "item_name": "DICORATE-ER 250 TAB           10'S",
+    "qty": 32,
+    "mrp": 108,
+    "rate": 77.14,
+    "cost": 69.43
+  },
+  {
+    "item_name": "DICORATE-ER 500 TAB           10'S",
+    "qty": 22,
+    "mrp": 182,
+    "rate": 130,
+    "cost": 117
+  },
+  {
+    "item_name": "DICORATE-ER 750 TAB           10'S",
+    "qty": 10,
+    "mrp": 214,
+    "rate": 152.86,
+    "cost": 137.57
+  },
+  {
+    "item_name": "DONAMEM-10 TAB10'S",
+    "qty": 12,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "DONAMEM-5 TAB 10'S",
+    "qty": 17,
+    "mrp": 174,
+    "rate": 124.29,
+    "cost": 111.86
+  },
+  {
+    "item_name": "DRONIS-20 TAB 24'S",
+    "qty": 7,
+    "mrp": 349,
+    "rate": 279.2,
+    "cost": 251.28
+  },
+  {
+    "item_name": "DRONIS-30 TAB 21'S",
+    "qty": 12,
+    "mrp": 530,
+    "rate": 424,
+    "cost": 381.6
+  },
+  {
+    "item_name": "DULANE 20 CAP 10'S",
+    "qty": 27,
+    "mrp": 126,
+    "rate": 90,
+    "cost": 81
+  },
+  {
+    "item_name": "DULANE 30 CAP 10'S",
+    "qty": 10,
+    "mrp": 174,
+    "rate": 124.29,
+    "cost": 111.86
+  },
+  {
+    "item_name": "DULANE-M 20 TAB               10'S",
+    "qty": 13,
+    "mrp": 145,
+    "rate": 103.57,
+    "cost": 93.21
+  },
+  {
+    "item_name": "DUZELA 20 CAP 10'S",
+    "qty": 56,
+    "mrp": 126,
+    "rate": 90,
+    "cost": 81
+  },
+  {
+    "item_name": "DUZELA 30 CAP 10'S",
+    "qty": 20,
+    "mrp": 174,
+    "rate": 124.29,
+    "cost": 111.86
+  },
+  {
+    "item_name": "DUZELA-M 20 TAB               10'S",
+    "qty": 5,
+    "mrp": 132,
+    "rate": 94.29,
+    "cost": 84.86
+  },
+  {
+    "item_name": "DUZELA-M 30 TAB               10'S",
+    "qty": 12,
+    "mrp": 189,
+    "rate": 135,
+    "cost": 121.5
+  },
+  {
+    "item_name": "ELIWEL-10 TAB 10'S",
+    "qty": 41,
+    "mrp": 28.4,
+    "rate": 20.29,
+    "cost": 18.26
+  },
+  {
+    "item_name": "EMAXGALIN-TAB 10'S",
+    "qty": 3,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "ENCORATE TAB  10'S",
+    "qty": 23,
+    "mrp": 38.45,
+    "rate": 27.46,
+    "cost": 24.72
+  },
+  {
+    "item_name": "ENCORATE-300 TAB              10'S",
+    "qty": 3,
+    "mrp": 44.57,
+    "rate": 31.84,
+    "cost": 28.65
+  },
+  {
+    "item_name": "ENCORATE-500 TAB              10'S",
+    "qty": 34,
+    "mrp": 86.1,
+    "rate": 61.5,
+    "cost": 55.35
+  },
+  {
+    "item_name": "ENCORATE-CHRONO 200           10'S",
+    "qty": 69,
+    "mrp": 38.45,
+    "rate": 27.46,
+    "cost": 24.72
+  },
+  {
+    "item_name": "ENCORATE-CHRONO 300           10'S",
+    "qty": 139,
+    "mrp": 78.2,
+    "rate": 55.86,
+    "cost": 50.27
+  },
+  {
+    "item_name": "ENCORATE-CHRONO 400           10'S",
+    "qty": 27,
+    "mrp": 115,
+    "rate": 82.14,
+    "cost": 73.93
+  },
+  {
+    "item_name": "ENCORATE-CHRONO 500           10'S",
+    "qty": 96,
+    "mrp": 121.15,
+    "rate": 86.54,
+    "cost": 77.88
+  },
+  {
+    "item_name": "EPLEHEF 25 TAB10'S",
+    "qty": 38,
+    "mrp": 204,
+    "rate": 145.71,
+    "cost": 131.14
+  },
+  {
+    "item_name": "ETOSHINE-120 TAB              10'S",
+    "qty": 17,
+    "mrp": 200,
+    "rate": 142.86,
+    "cost": 128.57
+  },
+  {
+    "item_name": "ETOSHINE-60 TAB               10'S",
+    "qty": 40,
+    "mrp": 136,
+    "rate": 97.14,
+    "cost": 87.43
+  },
+  {
+    "item_name": "ETOSHINE-90 TAB               10'S",
+    "qty": 59,
+    "mrp": 150,
+    "rate": 107.14,
+    "cost": 96.43
+  },
+  {
+    "item_name": "ETOSHINE-MR TAB               10'S",
+    "qty": 51,
+    "mrp": 274,
+    "rate": 195.71,
+    "cost": 176.14
+  },
+  {
+    "item_name": "EZACT-120 TAB 10'S",
+    "qty": 3,
+    "mrp": 185,
+    "rate": 132.14,
+    "cost": 118.93
+  },
+  {
+    "item_name": "EZACT-60 TAB  10'S",
+    "qty": 14,
+    "mrp": 125,
+    "rate": 89.29,
+    "cost": 80.36
+  },
+  {
+    "item_name": "EZACT-90 TAB  10'S",
+    "qty": 47,
+    "mrp": 150,
+    "rate": 107.14,
+    "cost": 96.43
+  },
+  {
+    "item_name": "EZACT-MR TAB  10'S",
+    "qty": 39,
+    "mrp": 274,
+    "rate": 195.71,
+    "cost": 176.14
+  },
+  {
+    "item_name": "EZENTIA-10 TAB10'S",
+    "qty": 20,
+    "mrp": 179,
+    "rate": 127.86,
+    "cost": 115.07
+  },
+  {
+    "item_name": "FAMOCID 40MG 14 TAB S14       14 S",
+    "qty": 42,
+    "mrp": 9.6,
+    "rate": 6.86,
+    "cost": 6.17
+  },
+  {
+    "item_name": "FAMOCID-20 TAB14'S",
+    "qty": 86,
+    "mrp": 5.38,
+    "rate": 3.84,
+    "cost": 3.46
+  },
+  {
+    "item_name": "FEBUGET-40 TAB15'S",
+    "qty": 63,
+    "mrp": 190,
+    "rate": 135.71,
+    "cost": 122.14
+  },
+  {
+    "item_name": "FEBUGET-80 TAB10'S",
+    "qty": 15,
+    "mrp": 228,
+    "rate": 162.86,
+    "cost": 146.57
+  },
+  {
+    "item_name": "FEBUTAZ-20 TAB10'S",
+    "qty": 15,
+    "mrp": 90,
+    "rate": 64.29,
+    "cost": 57.86
+  },
+  {
+    "item_name": "FEBUTAZ-40 TAB15'S",
+    "qty": 38,
+    "mrp": 190,
+    "rate": 135.71,
+    "cost": 122.14
+  },
+  {
+    "item_name": "FEBUTAZ-80 TAB10'S",
+    "qty": 10,
+    "mrp": 247,
+    "rate": 176.43,
+    "cost": 158.79
+  },
+  {
+    "item_name": "FENTIN CAP    1'S",
+    "qty": 1,
+    "mrp": 170,
+    "rate": 121.43,
+    "cost": 109.29
+  },
+  {
+    "item_name": "FERTISURE-F TAB               10'S",
+    "qty": 20,
+    "mrp": 265,
+    "rate": 179.66,
+    "cost": 161.7
+  },
+  {
+    "item_name": "FERTISURE-M TAB               10'S",
+    "qty": 26,
+    "mrp": 323,
+    "rate": 218.98,
+    "cost": 197.09
+  },
+  {
+    "item_name": "FIBATOR TAB   10 S",
+    "qty": 7,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "FIBATOR-LS TAB10'S",
+    "qty": 25,
+    "mrp": 214,
+    "rate": 152.86,
+    "cost": 137.57
+  },
+  {
+    "item_name": "FLEXURA-D TAB 10'S",
+    "qty": 21,
+    "mrp": 200,
+    "rate": 142.86,
+    "cost": 128.57
+  },
+  {
+    "item_name": "FLORITA CAP   10'S",
+    "qty": 45,
+    "mrp": 345,
+    "rate": 246.43,
+    "cost": 221.79
+  },
+  {
+    "item_name": "FLORITA LL-CAP10'S",
+    "qty": 68,
+    "mrp": 455,
+    "rate": 308.48,
+    "cost": 277.63
+  },
+  {
+    "item_name": "FLUVOXIN CR 5010'S",
+    "qty": 10,
+    "mrp": 195,
+    "rate": 139.29,
+    "cost": 125.36
+  },
+  {
+    "item_name": "FLUVOXIN-100 TAB              10'S",
+    "qty": 12,
+    "mrp": 285,
+    "rate": 203.57,
+    "cost": 183.21
+  },
+  {
+    "item_name": "FLUVOXIN-50 TAB               10'S",
+    "qty": 8,
+    "mrp": 172,
+    "rate": 122.86,
+    "cost": 110.57
+  },
+  {
+    "item_name": "FREEDASE 30 TAB               21'S",
+    "qty": 15,
+    "mrp": 520,
+    "rate": 416,
+    "cost": 374.4
+  },
+  {
+    "item_name": "GABANTIN-100 CAP              10'S",
+    "qty": 28,
+    "mrp": 87,
+    "rate": 62.14,
+    "cost": 55.93
+  },
+  {
+    "item_name": "GABANTIN-300 CAP              10'S",
+    "qty": 18,
+    "mrp": 219,
+    "rate": 156.43,
+    "cost": 140.79
+  },
+  {
+    "item_name": "GABANTIN-FORTE TAB            10'S",
+    "qty": 19,
+    "mrp": 213.5,
+    "rate": 152.5,
+    "cost": 137.25
+  },
+  {
+    "item_name": "GABANTIN-PLUS TAB             10'S",
+    "qty": 20,
+    "mrp": 108,
+    "rate": 77.14,
+    "cost": 69.43
+  },
+  {
+    "item_name": "GABANTIP-AT TAB               10'S",
+    "qty": 8,
+    "mrp": 245,
+    "rate": 175,
+    "cost": 157.5
+  },
+  {
+    "item_name": "GEMER V1 FORTE 1MG            10'S",
+    "qty": 20,
+    "mrp": 128,
+    "rate": 91.43,
+    "cost": 82.29
+  },
+  {
+    "item_name": "GEMER V2 FORTE 2MG            10'S",
+    "qty": 20,
+    "mrp": 148.96,
+    "rate": 106.4,
+    "cost": 95.76
+  },
+  {
+    "item_name": "GEMER-0.5 TAB 10'S",
+    "qty": 272,
+    "mrp": 35.4,
+    "rate": 25.29,
+    "cost": 22.76
+  },
+  {
+    "item_name": "GEMER-1 TAB   15'S",
+    "qty": 267,
+    "mrp": 149,
+    "rate": 106.43,
+    "cost": 95.79
+  },
+  {
+    "item_name": "GEMER-2 TAB   15'S",
+    "qty": 162,
+    "mrp": 211,
+    "rate": 150.71,
+    "cost": 135.64
+  },
+  {
+    "item_name": "GEMER-3 TAB   10'S",
+    "qty": 71,
+    "mrp": 102,
+    "rate": 72.86,
+    "cost": 65.57
+  },
+  {
+    "item_name": "GEMER-4       10'S",
+    "qty": 20,
+    "mrp": 124,
+    "rate": 88.57,
+    "cost": 79.71
+  },
+  {
+    "item_name": "GEMER-DS 1 TAB10'S",
+    "qty": 79,
+    "mrp": 108,
+    "rate": 77.14,
+    "cost": 69.43
+  },
+  {
+    "item_name": "GEMER-DS 2 TAB10'S",
+    "qty": 75,
+    "mrp": 142,
+    "rate": 101.43,
+    "cost": 91.29
+  },
+  {
+    "item_name": "GEMER-DS 3 TAB10'S",
+    "qty": 40,
+    "mrp": 152,
+    "rate": 108.57,
+    "cost": 97.71
+  },
+  {
+    "item_name": "GEMER-DS 4 TAB10 S",
+    "qty": 17,
+    "mrp": 133,
+    "rate": 95,
+    "cost": 85.5
+  },
+  {
+    "item_name": "GEMER-FORTE 1 TAB             10'S",
+    "qty": 23,
+    "mrp": 96,
+    "rate": 68.57,
+    "cost": 61.71
+  },
+  {
+    "item_name": "GEMER-FORTE 2 TAB             10'S",
+    "qty": 38,
+    "mrp": 133,
+    "rate": 95,
+    "cost": 85.5
+  },
+  {
+    "item_name": "GEMER-P 1 TAB 10'S",
+    "qty": 80,
+    "mrp": 141,
+    "rate": 100.71,
+    "cost": 90.64
+  },
+  {
+    "item_name": "GEMER-P 2 TAB 10'S",
+    "qty": 121,
+    "mrp": 177,
+    "rate": 126.43,
+    "cost": 113.79
+  },
+  {
+    "item_name": "GEMER-V1 TAB  10'S",
+    "qty": 30,
+    "mrp": 175.5,
+    "rate": 125.36,
+    "cost": 112.82
+  },
+  {
+    "item_name": "GEMER-V2 TAB  10'S",
+    "qty": 14,
+    "mrp": 226.5,
+    "rate": 161.79,
+    "cost": 145.61
+  },
+  {
+    "item_name": "GLOEYE -CAP   10S",
+    "qty": 26,
+    "mrp": 275,
+    "rate": 186.44,
+    "cost": 167.8
+  },
+  {
+    "item_name": "GLUCORED TAB  10'S",
+    "qty": 47,
+    "mrp": 46,
+    "rate": 32.86,
+    "cost": 29.57
+  },
+  {
+    "item_name": "GLUCORED-FORTE TAB            10'S",
+    "qty": 78,
+    "mrp": 60,
+    "rate": 42.86,
+    "cost": 38.57
+  },
+  {
+    "item_name": "GRAVITOR SR   10'S",
+    "qty": 5,
+    "mrp": 439,
+    "rate": 334.48,
+    "cost": 301.03
+  },
+  {
+    "item_name": "GRAVITOR TAB  10'S",
+    "qty": 9,
+    "mrp": 188,
+    "rate": 143.24,
+    "cost": 128.91
+  },
+  {
+    "item_name": "HEPTAGON SUSPENSION 200 ML BL1200ML",
+    "qty": 36,
+    "mrp": 290,
+    "rate": 196.61,
+    "cost": 176.95
+  },
+  {
+    "item_name": "HEPTAGON TAB  10'S",
+    "qty": 11,
+    "mrp": 240,
+    "rate": 162.71,
+    "cost": 146.44
+  },
+  {
+    "item_name": "HP-KIT TAB    6'S",
+    "qty": 61,
+    "mrp": 135,
+    "rate": 96.43,
+    "cost": 86.79
+  },
+  {
+    "item_name": "I-SITE AF TAB 10'S",
+    "qty": 5,
+    "mrp": 255,
+    "rate": 172.88,
+    "cost": 155.59
+  },
+  {
+    "item_name": "INAPURE-5 TAB 10'S",
+    "qty": 47,
+    "mrp": 213,
+    "rate": 152.14,
+    "cost": 136.93
+  },
+  {
+    "item_name": "INSTARAFT SYP 200ML",
+    "qty": 17,
+    "mrp": 102,
+    "rate": 72.85,
+    "cost": 127.93
+  },
+  {
+    "item_name": "ISTAMET D XR 1000             7'S",
+    "qty": 68,
+    "mrp": 136.5,
+    "rate": 97.5,
+    "cost": 87.75
+  },
+  {
+    "item_name": "ISTAMET XR    10'S",
+    "qty": 31,
+    "mrp": 145,
+    "rate": 103.57,
+    "cost": 93.21
+  },
+  {
+    "item_name": "ISTAMET XR 50010'S",
+    "qty": 47,
+    "mrp": 135,
+    "rate": 96.43,
+    "cost": 86.78
+  },
+  {
+    "item_name": "ISTAMET XR CP TAB",
+    "qty": 8,
+    "mrp": 335,
+    "rate": 14,
+    "cost": 215.36
+  },
+  {
+    "item_name": "ISTAMET-50/1000 TAB           15'S",
+    "qty": 52,
+    "mrp": 157.5,
+    "rate": 112.5,
+    "cost": 101.25
+  },
+  {
+    "item_name": "ISTAMET-50/500 TAB            15'S",
+    "qty": 123,
+    "mrp": 142.5,
+    "rate": 101.79,
+    "cost": 91.61
+  },
+  {
+    "item_name": "ISTAVEL D 10/50               15'S",
+    "qty": 32,
+    "mrp": 255,
+    "rate": 182.14,
+    "cost": 163.93
+  },
+  {
+    "item_name": "ISTAVEL D 5/100 MG            15 S",
+    "qty": 10,
+    "mrp": 255,
+    "rate": 182.14,
+    "cost": 163.93
+  },
+  {
+    "item_name": "ISTAVEL-100 TAB               7'S",
+    "qty": 2,
+    "mrp": 90.65,
+    "rate": 64.75,
+    "cost": 58.28
+  },
+  {
+    "item_name": "ISTAVEL-50 TAB7'S",
+    "qty": 45,
+    "mrp": 59.5,
+    "rate": 42.5,
+    "cost": 38.25
+  },
+  {
+    "item_name": "ISTAVEL-D 10/100 TAB          15'S",
+    "qty": 16,
+    "mrp": 270,
+    "rate": 192.86,
+    "cost": 173.57
+  },
+  {
+    "item_name": "IVEPRED 16 TAB10'S",
+    "qty": 9,
+    "mrp": 110.8,
+    "rate": 79.14,
+    "cost": 71.23
+  },
+  {
+    "item_name": "IVEPRED 4 TAB 10'S",
+    "qty": 22,
+    "mrp": 54,
+    "rate": 38.57,
+    "cost": 34.71
+  },
+  {
+    "item_name": "IVEPRED 8 TAB 10'S",
+    "qty": 24,
+    "mrp": 63.3,
+    "rate": 45.21,
+    "cost": 40.69
+  },
+  {
+    "item_name": "IVEPRED-40  INJ V01           1 S",
+    "qty": 35,
+    "mrp": 60.56,
+    "rate": 43.26,
+    "cost": 38.93
+  },
+  {
+    "item_name": "KETASMA TAB   10'S",
+    "qty": 20,
+    "mrp": 89,
+    "rate": 63.57,
+    "cost": 57.21
+  },
+  {
+    "item_name": "KETOADD TAB   20'S",
+    "qty": 17,
+    "mrp": 448,
+    "rate": 341.33,
+    "cost": 307.2
+  },
+  {
+    "item_name": "KORANDIL-10 TAB               10'S",
+    "qty": 21,
+    "mrp": 246,
+    "rate": 175.71,
+    "cost": 158.14
+  },
+  {
+    "item_name": "KORANDIL-5 TAB10'S",
+    "qty": 100,
+    "mrp": 164,
+    "rate": 117.14,
+    "cost": 105.43
+  },
+  {
+    "item_name": "KRIMSON-35 TAB21'S",
+    "qty": 74,
+    "mrp": 415,
+    "rate": 296.43,
+    "cost": 266.79
+  },
+  {
+    "item_name": "LABEBET INJ   4ML",
+    "qty": 42,
+    "mrp": 126,
+    "rate": 90,
+    "cost": 64.8
+  },
+  {
+    "item_name": "LABEBET-100 TAB               10'S",
+    "qty": 83,
+    "mrp": 182,
+    "rate": 130,
+    "cost": 117
+  },
+  {
+    "item_name": "LACOSET-100 TAB               10'S",
+    "qty": 38,
+    "mrp": 161,
+    "rate": 115,
+    "cost": 103.5
+  },
+  {
+    "item_name": "LACOSET-200 TAB               10 S",
+    "qty": 12,
+    "mrp": 275,
+    "rate": 196.43,
+    "cost": 176.79
+  },
+  {
+    "item_name": "LACOSET-50 TAB10'S",
+    "qty": 14,
+    "mrp": 84,
+    "rate": 60,
+    "cost": 54
+  },
+  {
+    "item_name": "LACTIFIBER POWDER             90GM",
+    "qty": 56,
+    "mrp": 271,
+    "rate": 193.57,
+    "cost": 174.21
+  },
+  {
+    "item_name": "LACTIFIBER POWDER BIG         180GM",
+    "qty": 6,
+    "mrp": 415,
+    "rate": 296.43,
+    "cost": 266.79
+  },
+  {
+    "item_name": "LACTIFIBRE SYP180ML",
+    "qty": 22,
+    "mrp": 360,
+    "rate": 257.14,
+    "cost": 231.43
+  },
+  {
+    "item_name": "LACTIHEP PLUS SYP             250ml",
+    "qty": 21,
+    "mrp": 259,
+    "rate": 185,
+    "cost": 166.5
+  },
+  {
+    "item_name": "LACTIHEP SYP  200ML",
+    "qty": 155,
+    "mrp": 278,
+    "rate": 198.57,
+    "cost": 178.71
+  },
+  {
+    "item_name": "LACTIHEP SYP BIG              450ML",
+    "qty": 13,
+    "mrp": 520,
+    "rate": 371.43,
+    "cost": 334.29
+  },
+  {
+    "item_name": "LESURIDE INJ. 2ML",
+    "qty": 18,
+    "mrp": 76,
+    "rate": 54.29,
+    "cost": 48.86
+  },
+  {
+    "item_name": "LESURIDE TAB  10'S",
+    "qty": 94,
+    "mrp": 117,
+    "rate": 83.57,
+    "cost": 75.21
+  },
+  {
+    "item_name": "LESURIDE-MPS TAB              10'S",
+    "qty": 54,
+    "mrp": 101,
+    "rate": 72.14,
+    "cost": 64.93
+  },
+  {
+    "item_name": "LESURIDE-OD 75 TAB            10'S",
+    "qty": 22,
+    "mrp": 238,
+    "rate": 170,
+    "cost": 153
+  },
+  {
+    "item_name": "LETOVAL-2.5 TAB               5'S",
+    "qty": 20,
+    "mrp": 146.44,
+    "rate": 104.6,
+    "cost": 94.14
+  },
+  {
+    "item_name": "LETROZ-2.5 TAB5'S",
+    "qty": 43,
+    "mrp": 146.44,
+    "rate": 104.6,
+    "cost": 94.14
+  },
+  {
+    "item_name": "LEVIPIL SYP   100ML",
+    "qty": 26,
+    "mrp": 396.48,
+    "rate": 283.2,
+    "cost": 254.88
+  },
+  {
+    "item_name": "LEVIPIL-1000 TAB              10'S",
+    "qty": 4,
+    "mrp": 312,
+    "rate": 222.86,
+    "cost": 200.57
+  },
+  {
+    "item_name": "LEVIPIL-250 TAB               10'S",
+    "qty": 69,
+    "mrp": 62.94,
+    "rate": 44.96,
+    "cost": 40.46
+  },
+  {
+    "item_name": "LEVIPIL-500 TAB               15'S",
+    "qty": 135,
+    "mrp": 193.08,
+    "rate": 137.91,
+    "cost": 124.12
+  },
+  {
+    "item_name": "LEVIPIL-750 TAB               10'S",
+    "qty": 19,
+    "mrp": 193.2,
+    "rate": 138,
+    "cost": 124.2
+  },
+  {
+    "item_name": "LIOFEN-10 TAB 10'S",
+    "qty": 100,
+    "mrp": 111.4,
+    "rate": 84.88,
+    "cost": 76.39
+  },
+  {
+    "item_name": "LIOFEN-25 TAB 10'S",
+    "qty": 5,
+    "mrp": 330,
+    "rate": 251.43,
+    "cost": 226.29
+  },
+  {
+    "item_name": "LIOFEN-5 TAB  10'S",
+    "qty": 8,
+    "mrp": 64.5,
+    "rate": 49.14,
+    "cost": 44.23
+  },
+  {
+    "item_name": "LIOFEN-XL 10 TAB              10'S",
+    "qty": 11,
+    "mrp": 222,
+    "rate": 169.14,
+    "cost": 152.23
+  },
+  {
+    "item_name": "LIOFEN-XL 20 TAB              10'S",
+    "qty": 16,
+    "mrp": 335,
+    "rate": 255.24,
+    "cost": 229.71
+  },
+  {
+    "item_name": "LIOFEN-XL 30 TAB              10'S",
+    "qty": 11,
+    "mrp": 395,
+    "rate": 300.95,
+    "cost": 270.86
+  },
+  {
+    "item_name": "LITHOSUN-300 TAB              10'S",
+    "qty": 36,
+    "mrp": 18,
+    "rate": 12.86,
+    "cost": 11.57
+  },
+  {
+    "item_name": "LITHOSUN-SR 400 TAB           10'S",
+    "qty": 33,
+    "mrp": 63,
+    "rate": 45,
+    "cost": 40.5
+  },
+  {
+    "item_name": "LOBAZAM MD 5 TAB              10'S",
+    "qty": 4,
+    "mrp": 63.8,
+    "rate": 45.57,
+    "cost": 41.01
+  },
+  {
+    "item_name": "LOBAZAM-10 TAB10'S",
+    "qty": 71,
+    "mrp": 95.76,
+    "rate": 68.4,
+    "cost": 61.56
+  },
+  {
+    "item_name": "LOBAZAM-5 TAB 10'S",
+    "qty": 42,
+    "mrp": 57.23,
+    "rate": 40.88,
+    "cost": 36.79
+  },
+  {
+    "item_name": "LONAZEP-0.25 TAB              15'S",
+    "qty": 48,
+    "mrp": 30.24,
+    "rate": 21.6,
+    "cost": 19.44
+  },
+  {
+    "item_name": "LONAZEP-0.5 TAB               10'S",
+    "qty": 47,
+    "mrp": 51.74,
+    "rate": 36.96,
+    "cost": 33.26
+  },
+  {
+    "item_name": "LONAZEP-1 TAB 10'S",
+    "qty": 19,
+    "mrp": 52.5,
+    "rate": 37.5,
+    "cost": 33.75
+  },
+  {
+    "item_name": "LONAZEP-2 TAB 10'S",
+    "qty": 15,
+    "mrp": 115,
+    "rate": 82.14,
+    "cost": 73.93
+  },
+  {
+    "item_name": "LONAZEP-MD 0.25 TAB           10'S",
+    "qty": 30,
+    "mrp": 20.16,
+    "rate": 14.4,
+    "cost": 12.96
+  },
+  {
+    "item_name": "LONAZEP-MD 0.5 TAB            10'S",
+    "qty": 26,
+    "mrp": 34.49,
+    "rate": 24.64,
+    "cost": 22.17
+  },
+  {
+    "item_name": "LOTEPRED DROP 5ML",
+    "qty": 14,
+    "mrp": 180,
+    "rate": 128.57,
+    "cost": 115.71
+  },
+  {
+    "item_name": "LUMIA-60K CAP 8'S",
+    "qty": 26,
+    "mrp": 293.7,
+    "rate": 209.79,
+    "cost": 188.81
+  },
+  {
+    "item_name": "LURAMAX-40 TAB10S",
+    "qty": 10,
+    "mrp": 137,
+    "rate": 97.86,
+    "cost": 88.07
+  },
+  {
+    "item_name": "MACORATE CR-400 TAB           10S",
+    "qty": 2,
+    "mrp": 120,
+    "rate": 85.71,
+    "cost": 77.14
+  },
+  {
+    "item_name": "MAXGALIN-50 TAB               10'S",
+    "qty": 12,
+    "mrp": 110,
+    "rate": 78.57,
+    "cost": 70.71
+  },
+  {
+    "item_name": "MAXGALIN-75 CAP               10'S",
+    "qty": 10,
+    "mrp": 185,
+    "rate": 132.14,
+    "cost": 118.93
+  },
+  {
+    "item_name": "MAXGALIN-ER 75 TAB            10'S",
+    "qty": 8,
+    "mrp": 177,
+    "rate": 126.43,
+    "cost": 113.79
+  },
+  {
+    "item_name": "MAXGALIN-M 75 CAP             10'S",
+    "qty": 18,
+    "mrp": 180,
+    "rate": 128.57,
+    "cost": 115.71
+  },
+  {
+    "item_name": "MAXGALIP AT TAB               10 S",
+    "qty": 20,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "MAXMALA-50 TAB10S",
+    "qty": 12,
+    "mrp": 150,
+    "rate": 107.14,
+    "cost": 96.43
+  },
+  {
+    "item_name": "MAXOZA L (NUTRA) H01",
+    "qty": 15,
+    "mrp": 60,
+    "rate": 40.68,
+    "cost": 36.61
+  },
+  {
+    "item_name": "MAXOZA SACHET 5GM",
+    "qty": 60,
+    "mrp": 55,
+    "rate": 37.29,
+    "cost": 33.56
+  },
+  {
+    "item_name": "MEBIZ-SR CAP  10'S",
+    "qty": 14,
+    "mrp": 236,
+    "rate": 168.57,
+    "cost": 151.71
+  },
+  {
+    "item_name": "MEGABROM-EYE DROP             5ML",
+    "qty": 24,
+    "mrp": 167,
+    "rate": 119.29,
+    "cost": 107.36
+  },
+  {
+    "item_name": "MESACOL CR 1GM SCH            SACHET",
+    "qty": 40,
+    "mrp": 39,
+    "rate": 27.86,
+    "cost": 25.07
+  },
+  {
+    "item_name": "MESACOL CR 2GM SACHET         1 S",
+    "qty": 25,
+    "mrp": 76,
+    "rate": 54.29,
+    "cost": 48.86
+  },
+  {
+    "item_name": "MESACOL SUPP. 5'S",
+    "qty": 22,
+    "mrp": 105,
+    "rate": 75,
+    "cost": 67.5
+  },
+  {
+    "item_name": "MESACOL TAB   15'S",
+    "qty": 33,
+    "mrp": 139.25,
+    "rate": 99.46,
+    "cost": 89.52
+  },
+  {
+    "item_name": "MESACOL-800 TAB               15'S",
+    "qty": 15,
+    "mrp": 314,
+    "rate": 224.29,
+    "cost": 201.86
+  },
+  {
+    "item_name": "MESACOL-OD TAB15'S",
+    "qty": 32,
+    "mrp": 522.5,
+    "rate": 373.21,
+    "cost": 335.89
+  },
+  {
+    "item_name": "METGEM 1GM TAB10'S",
+    "qty": 10,
+    "mrp": 40.86,
+    "rate": 29.19,
+    "cost": 26.27
+  },
+  {
+    "item_name": "METGEM 500MG TAB              10'S",
+    "qty": 17,
+    "mrp": 20.16,
+    "rate": 14.4,
+    "cost": 12.96
+  },
+  {
+    "item_name": "METHIMEZ-10 TAB               30'S",
+    "qty": 9,
+    "mrp": 332,
+    "rate": 237.14,
+    "cost": 213.43
+  },
+  {
+    "item_name": "METHIMEZ-5 TAB30'S",
+    "qty": 4,
+    "mrp": 184,
+    "rate": 131.43,
+    "cost": 118.29
+  },
+  {
+    "item_name": "METOSARTAN CH-25              10'S",
+    "qty": 27,
+    "mrp": 131,
+    "rate": 93.57,
+    "cost": 84.21
+  },
+  {
+    "item_name": "METOSARTAN CH-50              10'S",
+    "qty": 22,
+    "mrp": 165,
+    "rate": 117.86,
+    "cost": 106.07
+  },
+  {
+    "item_name": "METOSARTAN LN-25 TAB          10'S",
+    "qty": 82,
+    "mrp": 123.5,
+    "rate": 88.21,
+    "cost": 79.39
+  },
+  {
+    "item_name": "METOSARTAN LN-50 TAB          10'S",
+    "qty": 82,
+    "mrp": 151,
+    "rate": 107.86,
+    "cost": 97.07
+  },
+  {
+    "item_name": "METOSARTAN-25 TAB             10'S",
+    "qty": 61,
+    "mrp": 173,
+    "rate": 123.57,
+    "cost": 111.21
+  },
+  {
+    "item_name": "METOSARTAN-50 TAB             10'S",
+    "qty": 40,
+    "mrp": 201,
+    "rate": 143.57,
+    "cost": 129.21
+  },
+  {
+    "item_name": "MIRTAZ-15 TAB 10'S",
+    "qty": 34,
+    "mrp": 125,
+    "rate": 89.29,
+    "cost": 80.36
+  },
+  {
+    "item_name": "MIRTAZ-30 TAB 10'S",
+    "qty": 14,
+    "mrp": 221,
+    "rate": 157.86,
+    "cost": 142.07
+  },
+  {
+    "item_name": "MIRTAZ-7.5 TAB10'S",
+    "qty": 95,
+    "mrp": 90,
+    "rate": 64.29,
+    "cost": 57.86
+  },
+  {
+    "item_name": "MODALERT-100 TAB              10'S",
+    "qty": 18,
+    "mrp": 204,
+    "rate": 145.71,
+    "cost": 131.14
+  },
+  {
+    "item_name": "MONDESLOR TAB 10'S",
+    "qty": 47,
+    "mrp": 205,
+    "rate": 146.43,
+    "cost": 131.79
+  },
+  {
+    "item_name": "MONOTRATE-10 TAB              10'S",
+    "qty": 68,
+    "mrp": 24.3,
+    "rate": 17.36,
+    "cost": 15.62
+  },
+  {
+    "item_name": "MONOTRATE-20 TAB              10'S",
+    "qty": 33,
+    "mrp": 40.75,
+    "rate": 29.11,
+    "cost": 26.2
+  },
+  {
+    "item_name": "MONOTRATE-OD 25 TAB           10'S",
+    "qty": 24,
+    "mrp": 93,
+    "rate": 66.43,
+    "cost": 59.79
+  },
+  {
+    "item_name": "MONOTRATE-OD TAB              10'S",
+    "qty": 12,
+    "mrp": 135,
+    "rate": 96.43,
+    "cost": 86.79
+  },
+  {
+    "item_name": "MONOTRATE-SR 30 TAB           10'S",
+    "qty": 41,
+    "mrp": 60.8,
+    "rate": 43.43,
+    "cost": 39.09
+  },
+  {
+    "item_name": "MONTEK BL TABLETS             10 S",
+    "qty": 22,
+    "mrp": 175,
+    "rate": 125,
+    "cost": 112.5
+  },
+  {
+    "item_name": "MONTEK-10 TAB 10'S",
+    "qty": 31,
+    "mrp": 164.19,
+    "rate": 117.28,
+    "cost": 105.55
+  },
+  {
+    "item_name": "MONTEK-AB TAB 10'S",
+    "qty": 38,
+    "mrp": 268,
+    "rate": 191.43,
+    "cost": 172.29
+  },
+  {
+    "item_name": "MONTEK-LC KID TAB             10'S",
+    "qty": 23,
+    "mrp": 128,
+    "rate": 91.43,
+    "cost": 82.29
+  },
+  {
+    "item_name": "MONTEK-LC TAB 10'S",
+    "qty": 171,
+    "mrp": 209,
+    "rate": 149.29,
+    "cost": 134.36
+  },
+  {
+    "item_name": "NATRISE 30 S04",
+    "qty": 6,
+    "mrp": 1100,
+    "rate": 785.71,
+    "cost": 707.14
+  },
+  {
+    "item_name": "NATRISE-TAB   4S",
+    "qty": 10,
+    "mrp": 587,
+    "rate": 419.29,
+    "cost": 377.36
+  },
+  {
+    "item_name": "NAXDOM-250 TAB10'S",
+    "qty": 96,
+    "mrp": 104,
+    "rate": 74.29,
+    "cost": 66.86
+  },
+  {
+    "item_name": "NAXDOM-500 TAB15'S",
+    "qty": 101,
+    "mrp": 156,
+    "rate": 111.43,
+    "cost": 100.29
+  },
+  {
+    "item_name": "NEPALACT EAR DROP             5ML",
+    "qty": 26,
+    "mrp": 199.6,
+    "rate": 142.57,
+    "cost": 128.31
+  },
+  {
+    "item_name": "NEUGABA-75 CAP10'S",
+    "qty": 7,
+    "mrp": 175,
+    "rate": 125,
+    "cost": 112.5
+  },
+  {
+    "item_name": "NEUGABA-ER 75 TAB             10'S",
+    "qty": 12,
+    "mrp": 166,
+    "rate": 118.57,
+    "cost": 106.71
+  },
+  {
+    "item_name": "NEUGABA-M 75 CAP              10'S",
+    "qty": 15,
+    "mrp": 270,
+    "rate": 192.86,
+    "cost": 173.57
+  },
+  {
+    "item_name": "NEXIPRIDE-50 TAB              10'S",
+    "qty": 16,
+    "mrp": 148,
+    "rate": 105.71,
+    "cost": 95.14
+  },
+  {
+    "item_name": "NEXITO-10 TAB 10'S",
+    "qty": 98,
+    "mrp": 89.93,
+    "rate": 64.24,
+    "cost": 57.81
+  },
+  {
+    "item_name": "NEXITO-20 TAB 10'S",
+    "qty": 15,
+    "mrp": 159.05,
+    "rate": 113.61,
+    "cost": 102.25
+  },
+  {
+    "item_name": "NEXITO-5 TAB  10'S",
+    "qty": 87,
+    "mrp": 50.17,
+    "rate": 35.84,
+    "cost": 32.25
+  },
+  {
+    "item_name": "NEXITO-FORTE TAB              10'S",
+    "qty": 49,
+    "mrp": 165,
+    "rate": 117.86,
+    "cost": 106.07
+  },
+  {
+    "item_name": "NEXITO-LS TAB 10'S",
+    "qty": 31,
+    "mrp": 147,
+    "rate": 105,
+    "cost": 94.5
+  },
+  {
+    "item_name": "NEXITO-PLUS TAB               10'S",
+    "qty": 202,
+    "mrp": 113,
+    "rate": 80.71,
+    "cost": 72.64
+  },
+  {
+    "item_name": "NITREST-10 TAB10'S",
+    "qty": 17,
+    "mrp": 104.95,
+    "rate": 74.96,
+    "cost": 54.64
+  },
+  {
+    "item_name": "NITREST-5 TAB 10'S",
+    "qty": 11,
+    "mrp": 60.92,
+    "rate": 43.51,
+    "cost": 39.16
+  },
+  {
+    "item_name": "NODICT-50 TAB 10'S",
+    "qty": 6,
+    "mrp": 865,
+    "rate": 617.86,
+    "cost": 556.07
+  },
+  {
+    "item_name": "NORMOZ DS TAB 10 S",
+    "qty": 24,
+    "mrp": 450,
+    "rate": 305.09,
+    "cost": 274.58
+  },
+  {
+    "item_name": "NORMOZ TAB    10'S",
+    "qty": 12,
+    "mrp": 265,
+    "rate": 179.66,
+    "cost": 161.7
+  },
+  {
+    "item_name": "OLEANZ FORTE TAB              10'S",
+    "qty": 8,
+    "mrp": 174,
+    "rate": 124.29,
+    "cost": 111.86
+  },
+  {
+    "item_name": "OLEANZ PLUS TAB               10'S",
+    "qty": 51,
+    "mrp": 123,
+    "rate": 87.86,
+    "cost": 79.07
+  },
+  {
+    "item_name": "OLEANZ-10 TAB 10'S",
+    "qty": 93,
+    "mrp": 90,
+    "rate": 64.29,
+    "cost": 57.86
+  },
+  {
+    "item_name": "OLEANZ-2.5 TAB10'S",
+    "qty": 107,
+    "mrp": 43.5,
+    "rate": 31.07,
+    "cost": 27.96
+  },
+  {
+    "item_name": "OLEANZ-5 TAB  10'S",
+    "qty": 157,
+    "mrp": 54,
+    "rate": 38.57,
+    "cost": 34.71
+  },
+  {
+    "item_name": "OLEANZ-7.5 TAB10'S",
+    "qty": 10,
+    "mrp": 90,
+    "rate": 64.29,
+    "cost": 57.86
+  },
+  {
+    "item_name": "OLEANZ-RAPITAB 10             10'S",
+    "qty": 9,
+    "mrp": 91,
+    "rate": 65,
+    "cost": 58.5
+  },
+  {
+    "item_name": "OLEANZ-RAPITAB 15             10'S",
+    "qty": 10,
+    "mrp": 163,
+    "rate": 116.43,
+    "cost": 104.79
+  },
+  {
+    "item_name": "OLEANZ-RAPITAB 20             10'S",
+    "qty": 4,
+    "mrp": 210,
+    "rate": 150,
+    "cost": 135
+  },
+  {
+    "item_name": "OLMEZEST-10 TAB               10'S",
+    "qty": 45,
+    "mrp": 96,
+    "rate": 68.57,
+    "cost": 61.71
+  },
+  {
+    "item_name": "OLMEZEST-20 TAB               10'S",
+    "qty": 68,
+    "mrp": 123,
+    "rate": 87.86,
+    "cost": 79.07
+  },
+  {
+    "item_name": "OLMEZEST-40 TAB               10'S",
+    "qty": 48,
+    "mrp": 214,
+    "rate": 152.86,
+    "cost": 137.57
+  },
+  {
+    "item_name": "OLMEZEST-AM 40 TAB            10'S",
+    "qty": 23,
+    "mrp": 235,
+    "rate": 167.86,
+    "cost": 151.07
+  },
+  {
+    "item_name": "OLMEZEST-AM TAB               10'S",
+    "qty": 52,
+    "mrp": 158,
+    "rate": 112.86,
+    "cost": 101.57
+  },
+  {
+    "item_name": "OLMEZEST-AZ 2010'S",
+    "qty": 12,
+    "mrp": 145,
+    "rate": 103.57,
+    "cost": 93.21
+  },
+  {
+    "item_name": "OLMEZEST-AZ 4010'S",
+    "qty": 20,
+    "mrp": 199,
+    "rate": 142.14,
+    "cost": 127.93
+  },
+  {
+    "item_name": "OLMEZEST-BETA 25 TAB          10'S",
+    "qty": 34,
+    "mrp": 186,
+    "rate": 132.86,
+    "cost": 119.57
+  },
+  {
+    "item_name": "OLMEZEST-BETA 50 TAB          10'S",
+    "qty": 29,
+    "mrp": 216,
+    "rate": 154.29,
+    "cost": 138.86
+  },
+  {
+    "item_name": "OLMEZEST-CH 20 TAB            10'S",
+    "qty": 43,
+    "mrp": 159,
+    "rate": 113.57,
+    "cost": 102.21
+  },
+  {
+    "item_name": "OLMEZEST-CH 40 TAB            10'S",
+    "qty": 25,
+    "mrp": 272.5,
+    "rate": 194.64,
+    "cost": 175.18
+  },
+  {
+    "item_name": "OLMEZEST-H 20 TAB             10'S",
+    "qty": 29,
+    "mrp": 151,
+    "rate": 107.86,
+    "cost": 97.07
+  },
+  {
+    "item_name": "OLMEZEST-H 40 TAB             10'S",
+    "qty": 13,
+    "mrp": 245,
+    "rate": 175,
+    "cost": 157.5
+  },
+  {
+    "item_name": "OPIPROL-100 TAB               10'S",
+    "qty": 10,
+    "mrp": 145,
+    "rate": 103.57,
+    "cost": 93.21
+  },
+  {
+    "item_name": "OPIPROL-50 TAB10'S",
+    "qty": 12,
+    "mrp": 90,
+    "rate": 64.29,
+    "cost": 57.86
+  },
+  {
+    "item_name": "OVARES PLUS CAP               10'S",
+    "qty": 4,
+    "mrp": 550,
+    "rate": 372.88,
+    "cost": 335.59
+  },
+  {
+    "item_name": "OXETOL XR 150 S10             10 S",
+    "qty": 10,
+    "mrp": 89,
+    "rate": 63.57,
+    "cost": 57.21
+  },
+  {
+    "item_name": "OXETOL-150 TAB10'S",
+    "qty": 55,
+    "mrp": 79.5,
+    "rate": 56.79,
+    "cost": 51.11
+  },
+  {
+    "item_name": "OXETOL-300 TAB10'S",
+    "qty": 155,
+    "mrp": 123,
+    "rate": 87.86,
+    "cost": 79.07
+  },
+  {
+    "item_name": "OXETOL-450 TAB10'S",
+    "qty": 58,
+    "mrp": 197,
+    "rate": 140.71,
+    "cost": 126.64
+  },
+  {
+    "item_name": "OXETOL-600 TAB10'S",
+    "qty": 99,
+    "mrp": 228,
+    "rate": 162.86,
+    "cost": 146.57
+  },
+  {
+    "item_name": "OXETOL-XR 300 TAB             10'S",
+    "qty": 21,
+    "mrp": 148,
+    "rate": 105.71,
+    "cost": 95.14
+  },
+  {
+    "item_name": "OXETOL-XR 600 TAB             10'S",
+    "qty": 14,
+    "mrp": 235,
+    "rate": 167.86,
+    "cost": 151.07
+  },
+  {
+    "item_name": "OXRA S 5/100  15'S",
+    "qty": 20,
+    "mrp": 255,
+    "rate": 182.14,
+    "cost": 163.93
+  },
+  {
+    "item_name": "OXRA S 5/50 TAB",
+    "qty": 5,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "OXRA-10 TAB   14'S",
+    "qty": 65,
+    "mrp": 180.6,
+    "rate": 129,
+    "cost": 116.1
+  },
+  {
+    "item_name": "OXRA-5 TAB    14'S",
+    "qty": 10,
+    "mrp": 137.2,
+    "rate": 98,
+    "cost": 88.2
+  },
+  {
+    "item_name": "OXRAMET 5/1000 TAB            14'S",
+    "qty": 51,
+    "mrp": 203,
+    "rate": 145,
+    "cost": 130.5
+  },
+  {
+    "item_name": "OXRAMET IR 5/500 TAB          10 S",
+    "qty": 12,
+    "mrp": 98,
+    "rate": 70,
+    "cost": 63
+  },
+  {
+    "item_name": "OXRAMET S XR 1000MG           7'S",
+    "qty": 8,
+    "mrp": 136.5,
+    "rate": 97.5,
+    "cost": 87.75
+  },
+  {
+    "item_name": "OXRAMET XR 10/1000 TAB        7'S",
+    "qty": 16,
+    "mrp": 111.3,
+    "rate": 79.5,
+    "cost": 71.55
+  },
+  {
+    "item_name": "OXRAMET XR 10/500 TAB         7'S",
+    "qty": 25,
+    "mrp": 105,
+    "rate": 75,
+    "cost": 67.5
+  },
+  {
+    "item_name": "PANLIPASE TAB 10'S",
+    "qty": 19,
+    "mrp": 369,
+    "rate": 263.57,
+    "cost": 237.21
+  },
+  {
+    "item_name": "PANTOCID TAB  15'S",
+    "qty": 149,
+    "mrp": 172,
+    "rate": 122.86,
+    "cost": 110.57
+  },
+  {
+    "item_name": "PANTOCID-20 TAB               15'S",
+    "qty": 39,
+    "mrp": 115,
+    "rate": 82.14,
+    "cost": 73.93
+  },
+  {
+    "item_name": "PANTOCID-80 TAB               10'S",
+    "qty": 32,
+    "mrp": 295,
+    "rate": 210.71,
+    "cost": 189.64
+  },
+  {
+    "item_name": "PANTOCID-D CAP10'S",
+    "qty": 165,
+    "mrp": 110,
+    "rate": 78.57,
+    "cost": 70.71
+  },
+  {
+    "item_name": "PANTOCID-DSR CAP              15'S",
+    "qty": 134,
+    "mrp": 215,
+    "rate": 153.57,
+    "cost": 138.21
+  },
+  {
+    "item_name": "PANTOCID-HP TAB               6'S",
+    "qty": 9,
+    "mrp": 199,
+    "rate": 142.14,
+    "cost": 127.93
+  },
+  {
+    "item_name": "PANTOCID-IT CAP               10'S",
+    "qty": 26,
+    "mrp": 305,
+    "rate": 217.86,
+    "cost": 196.07
+  },
+  {
+    "item_name": "PANTOCID-IV 40MG              1'S",
+    "qty": 139,
+    "mrp": 55.3,
+    "rate": 39.5,
+    "cost": 35.55
+  },
+  {
+    "item_name": "PANTOCID-L TAB10'S",
+    "qty": 74,
+    "mrp": 250,
+    "rate": 178.57,
+    "cost": 160.71
+  },
+  {
+    "item_name": "PARKITIDIN TAB10'S",
+    "qty": 33,
+    "mrp": 153,
+    "rate": 109.29,
+    "cost": 98.36
+  },
+  {
+    "item_name": "PAXIDEP-CR 12.5 TAB           10'S",
+    "qty": 12,
+    "mrp": 180,
+    "rate": 128.57,
+    "cost": 115.71
+  },
+  {
+    "item_name": "PAXIDEP-CR 25 TAB             10'S",
+    "qty": 10,
+    "mrp": 215,
+    "rate": 153.57,
+    "cost": 138.21
+  },
+  {
+    "item_name": "PEGFIBER POW",
+    "qty": 20,
+    "mrp": 295,
+    "rate": 210.71,
+    "cost": 189.64
+  },
+  {
+    "item_name": "PEGMOVE POW   121GM",
+    "qty": 8,
+    "mrp": 246,
+    "rate": 175.71,
+    "cost": 158.14
+  },
+  {
+    "item_name": "PIOGLIT-15 TAB10'S",
+    "qty": 38,
+    "mrp": 63,
+    "rate": 45,
+    "cost": 40.5
+  },
+  {
+    "item_name": "PIOGLIT-MF 15 TAB             10'S",
+    "qty": 13,
+    "mrp": 12,
+    "rate": 10,
+    "cost": 77.14
+  },
+  {
+    "item_name": "PIRANULIN TAB 10'S",
+    "qty": 7,
+    "mrp": 570,
+    "rate": 407.14,
+    "cost": 366.43
+  },
+  {
+    "item_name": "PRAMIPEX-0.125 TAB            10'S",
+    "qty": 45,
+    "mrp": 53,
+    "rate": 37.86,
+    "cost": 34.07
+  },
+  {
+    "item_name": "PRAMIPEX-0.25 TAB             10'S",
+    "qty": 65,
+    "mrp": 96,
+    "rate": 68.57,
+    "cost": 61.71
+  },
+  {
+    "item_name": "PRAMIPEX-0.5 TAB              10'S",
+    "qty": 71,
+    "mrp": 155,
+    "rate": 110.71,
+    "cost": 99.64
+  },
+  {
+    "item_name": "PRAMIPEX-1 TAB10'S",
+    "qty": 15,
+    "mrp": 202,
+    "rate": 144.29,
+    "cost": 129.86
+  },
+  {
+    "item_name": "PRAMIPEX-ER 0.375 TAB         10'S",
+    "qty": 16,
+    "mrp": 99,
+    "rate": 70.71,
+    "cost": 63.64
+  },
+  {
+    "item_name": "PRAZOPRESS-XL 2.5 CAP         30'S",
+    "qty": 11,
+    "mrp": 343,
+    "rate": 245,
+    "cost": 220.5
+  },
+  {
+    "item_name": "PRAZOPRESS-XL 5 CAP           30'S",
+    "qty": 16,
+    "mrp": 450,
+    "rate": 321.43,
+    "cost": 289.29
+  },
+  {
+    "item_name": "PREDMET-16 TAB10'S",
+    "qty": 68,
+    "mrp": 110.8,
+    "rate": 79.14,
+    "cost": 71.23
+  },
+  {
+    "item_name": "PREDMET-4 TAB 10'S",
+    "qty": 251,
+    "mrp": 81,
+    "rate": 57.86,
+    "cost": 52.07
+  },
+  {
+    "item_name": "PREDMET-8 TAB 10'S",
+    "qty": 288,
+    "mrp": 94.95,
+    "rate": 67.82,
+    "cost": 61.04
+  },
+  {
+    "item_name": "PRIMOX TAB    10'S",
+    "qty": 4,
+    "mrp": 32.5,
+    "rate": 23.21,
+    "cost": 20.89
+  },
+  {
+    "item_name": "PRODEP CAP    10'S",
+    "qty": 9,
+    "mrp": 39.87,
+    "rate": 28.48,
+    "cost": 25.63
+  },
+  {
+    "item_name": "PRODEP-10 CAP 10'S",
+    "qty": 12,
+    "mrp": 36.9,
+    "rate": 26.36,
+    "cost": 23.72
+  },
+  {
+    "item_name": "PROHANCE HP VANILA POW        400GM",
+    "qty": 5,
+    "mrp": 995,
+    "rate": 674.58,
+    "cost": 607.12
+  },
+  {
+    "item_name": "PROHANCE MOM CHO. POW         200GM",
+    "qty": 4,
+    "mrp": 370,
+    "rate": 250.85,
+    "cost": 225.76
+  },
+  {
+    "item_name": "PROLOMET-AM 25 TAB            10'S",
+    "qty": 98,
+    "mrp": 107,
+    "rate": 76.43,
+    "cost": 68.79
+  },
+  {
+    "item_name": "PROLOMET-AM 50 TAB            10'S",
+    "qty": 162,
+    "mrp": 136,
+    "rate": 97.14,
+    "cost": 87.43
+  },
+  {
+    "item_name": "PROLOMET-R 25 TAB             10'S",
+    "qty": 82,
+    "mrp": 186,
+    "rate": 132.86,
+    "cost": 119.57
+  },
+  {
+    "item_name": "PROLOMET-R 50 TAB             10'S",
+    "qty": 40,
+    "mrp": 281,
+    "rate": 200.71,
+    "cost": 180.64
+  },
+  {
+    "item_name": "PROLOMET-T 25 TAB             10'S",
+    "qty": 29,
+    "mrp": 142,
+    "rate": 101.43,
+    "cost": 91.29
+  },
+  {
+    "item_name": "PROLOMET-T 50 TAB             10'S",
+    "qty": 42,
+    "mrp": 169,
+    "rate": 120.71,
+    "cost": 108.64
+  },
+  {
+    "item_name": "PROLOMET-XL 100 TAB           10'S",
+    "qty": 16,
+    "mrp": 149.74,
+    "rate": 106.96,
+    "cost": 96.26
+  },
+  {
+    "item_name": "PROLOMET-XL 12.5 TAB          10'S",
+    "qty": 38,
+    "mrp": 44.5,
+    "rate": 31.79,
+    "cost": 28.61
+  },
+  {
+    "item_name": "PROLOMET-XL 25 TAB            10'S",
+    "qty": 368,
+    "mrp": 42,
+    "rate": 30,
+    "cost": 27
+  },
+  {
+    "item_name": "PROLOMET-XL 50 TAB            10'S",
+    "qty": 412,
+    "mrp": 58.35,
+    "rate": 41.68,
+    "cost": 37.51
+  },
+  {
+    "item_name": "PRUEASE 1 TAB 10.S",
+    "qty": 23,
+    "mrp": 194,
+    "rate": 138.57,
+    "cost": 124.71
+  },
+  {
+    "item_name": "PRUEASE 2 TAB 10 S",
+    "qty": 24,
+    "mrp": 328,
+    "rate": 234.29,
+    "cost": 210.86
+  },
+  {
+    "item_name": "QUTIPIN-100 TAB               10'S",
+    "qty": 48,
+    "mrp": 97,
+    "rate": 69.29,
+    "cost": 62.36
+  },
+  {
+    "item_name": "QUTIPIN-200 TAB               10'S",
+    "qty": 7,
+    "mrp": 166,
+    "rate": 118.57,
+    "cost": 106.71
+  },
+  {
+    "item_name": "QUTIPIN-25 TAB10'S",
+    "qty": 70,
+    "mrp": 63,
+    "rate": 45,
+    "cost": 40.5
+  },
+  {
+    "item_name": "QUTIPIN-300 TAB               10'S",
+    "qty": 2,
+    "mrp": 239,
+    "rate": 170.71,
+    "cost": 153.64
+  },
+  {
+    "item_name": "QUTIPIN-50 TAB10'S",
+    "qty": 77,
+    "mrp": 80,
+    "rate": 57.14,
+    "cost": 51.43
+  },
+  {
+    "item_name": "QUTIPIN-SR 100 TAB            10'S",
+    "qty": 8,
+    "mrp": 102,
+    "rate": 72.86,
+    "cost": 65.57
+  },
+  {
+    "item_name": "QUTIPIN-SR 200 TAB            10'S",
+    "qty": 20,
+    "mrp": 173,
+    "rate": 123.57,
+    "cost": 111.21
+  },
+  {
+    "item_name": "QUTIPIN-SR 300 TAB            10'S",
+    "qty": 19,
+    "mrp": 235,
+    "rate": 167.86,
+    "cost": 151.07
+  },
+  {
+    "item_name": "QUTIPIN-SR 50 TAB             10'S",
+    "qty": 19,
+    "mrp": 80,
+    "rate": 57.14,
+    "cost": 51.43
+  },
+  {
+    "item_name": "RANOZEX TAB   10'S",
+    "qty": 59,
+    "mrp": 168,
+    "rate": 120,
+    "cost": 108
+  },
+  {
+    "item_name": "RASALECT-0.5 TAB              10'S",
+    "qty": 46,
+    "mrp": 110,
+    "rate": 78.57,
+    "cost": 70.71
+  },
+  {
+    "item_name": "RASALECT-1 TAB10'S",
+    "qty": 20,
+    "mrp": 170,
+    "rate": 121.43,
+    "cost": 109.29
+  },
+  {
+    "item_name": "REPACE-25 TAB 10'S",
+    "qty": 6,
+    "mrp": 12,
+    "rate": 10,
+    "cost": 28.93
+  },
+  {
+    "item_name": "REPACE-50 TAB 10'S",
+    "qty": 19,
+    "mrp": 86,
+    "rate": 61.43,
+    "cost": 55.29
+  },
+  {
+    "item_name": "REPACE-AF TAB 10'S",
+    "qty": 8,
+    "mrp": 138,
+    "rate": 98.57,
+    "cost": 88.71
+  },
+  {
+    "item_name": "REPACE-H TAB  10'S",
+    "qty": 7,
+    "mrp": 143,
+    "rate": 102.14,
+    "cost": 91.93
+  },
+  {
+    "item_name": "REPALOL TAB   10'S",
+    "qty": 10,
+    "mrp": 157,
+    "rate": 112.14,
+    "cost": 100.93
+  },
+  {
+    "item_name": "REPALOL-H TAB 10'S",
+    "qty": 5,
+    "mrp": 143.8,
+    "rate": 102.71,
+    "cost": 92.44
+  },
+  {
+    "item_name": "REVLAMER-400 TAB              10'S",
+    "qty": 12,
+    "mrp": 98,
+    "rate": 70,
+    "cost": 63
+  },
+  {
+    "item_name": "REVLAMER-800 TAB              10'S",
+    "qty": 14,
+    "mrp": 185,
+    "rate": 132.14,
+    "cost": 118.93
+  },
+  {
+    "item_name": "REVOCON-25 TAB10'S",
+    "qty": 40,
+    "mrp": 374,
+    "rate": 267.14,
+    "cost": 240.43
+  },
+  {
+    "item_name": "RIFAGUT TAB   10'S",
+    "qty": 52,
+    "mrp": 209,
+    "rate": 149.29,
+    "cost": 134.36
+  },
+  {
+    "item_name": "RIFAGUT-400 TAB               10'S",
+    "qty": 78,
+    "mrp": 379,
+    "rate": 270.71,
+    "cost": 243.64
+  },
+  {
+    "item_name": "RIFAGUT-550 TAB               10'S",
+    "qty": 41,
+    "mrp": 469,
+    "rate": 335,
+    "cost": 301.5
+  },
+  {
+    "item_name": "RIVAFLO 10MG TAB              10'S",
+    "qty": 9,
+    "mrp": 220,
+    "rate": 157.14,
+    "cost": 141.43
+  },
+  {
+    "item_name": "RIVAMER-1.5 CAP               10'S",
+    "qty": 24,
+    "mrp": 175,
+    "rate": 125,
+    "cost": 112.5
+  },
+  {
+    "item_name": "ROPARK XL 2 TAB               10'S",
+    "qty": 7,
+    "mrp": 248,
+    "rate": 177.14,
+    "cost": 159.43
+  },
+  {
+    "item_name": "ROPARK XL 4 TAB",
+    "qty": 5,
+    "mrp": 294,
+    "rate": 210,
+    "cost": 189
+  },
+  {
+    "item_name": "ROPARK-0.25 TAB               10'S",
+    "qty": 25,
+    "mrp": 77,
+    "rate": 55,
+    "cost": 49.5
+  },
+  {
+    "item_name": "ROPARK-0.5 TAB10'S",
+    "qty": 33,
+    "mrp": 102,
+    "rate": 72.86,
+    "cost": 65.57
+  },
+  {
+    "item_name": "ROPARK-1 TAB  10'S",
+    "qty": 19,
+    "mrp": 160,
+    "rate": 114.29,
+    "cost": 102.86
+  },
+  {
+    "item_name": "ROPARK-2 TAB  10 S",
+    "qty": 2,
+    "mrp": 227,
+    "rate": 162.14,
+    "cost": 145.93
+  },
+  {
+    "item_name": "ROZAGOLD-10 TAB               10'S",
+    "qty": 73,
+    "mrp": 211,
+    "rate": 150.71,
+    "cost": 135.64
+  },
+  {
+    "item_name": "ROZAGOLD-20 TAB               10'S",
+    "qty": 66,
+    "mrp": 323,
+    "rate": 230.71,
+    "cost": 207.64
+  },
+  {
+    "item_name": "ROZALET 10-TAB10'S",
+    "qty": 48,
+    "mrp": 167,
+    "rate": 119.29,
+    "cost": 107.36
+  },
+  {
+    "item_name": "ROZALET 20 TAB10 S",
+    "qty": 27,
+    "mrp": 205,
+    "rate": 146.43,
+    "cost": 131.79
+  },
+  {
+    "item_name": "ROZAVEL-10 TAB10'S",
+    "qty": 71,
+    "mrp": 194,
+    "rate": 138.57,
+    "cost": 124.71
+  },
+  {
+    "item_name": "ROZAVEL-20 TAB10'S",
+    "qty": 71,
+    "mrp": 362,
+    "rate": 258.57,
+    "cost": 232.71
+  },
+  {
+    "item_name": "ROZAVEL-40 TAB10'S",
+    "qty": 24,
+    "mrp": 575,
+    "rate": 410.71,
+    "cost": 369.64
+  },
+  {
+    "item_name": "ROZAVEL-5 TAB 10'S",
+    "qty": 64,
+    "mrp": 108,
+    "rate": 77.14,
+    "cost": 69.43
+  },
+  {
+    "item_name": "ROZAVEL-A 150 TAB             10'S",
+    "qty": 17,
+    "mrp": 101,
+    "rate": 72.14,
+    "cost": 64.93
+  },
+  {
+    "item_name": "ROZAVEL-A TAB 10'S",
+    "qty": 84,
+    "mrp": 96,
+    "rate": 68.57,
+    "cost": 61.71
+  },
+  {
+    "item_name": "ROZAVEL-EZ TAB10'S",
+    "qty": 5,
+    "mrp": 224,
+    "rate": 160,
+    "cost": 144
+  },
+  {
+    "item_name": "ROZAVEL-F 20 TAB              10'S",
+    "qty": 6,
+    "mrp": 416,
+    "rate": 297.14,
+    "cost": 267.43
+  },
+  {
+    "item_name": "ROZAVEL-F 5 TAB               10'S",
+    "qty": 10,
+    "mrp": 151,
+    "rate": 107.86,
+    "cost": 97.07
+  },
+  {
+    "item_name": "ROZAVEL-F TAB 10'S",
+    "qty": 31,
+    "mrp": 258,
+    "rate": 184.29,
+    "cost": 165.86
+  },
+  {
+    "item_name": "SIZODON-1 TAB 10'S",
+    "qty": 46,
+    "mrp": 30.24,
+    "rate": 21.6,
+    "cost": 19.44
+  },
+  {
+    "item_name": "SIZODON-2 TAB 10'S",
+    "qty": 42,
+    "mrp": 44.8,
+    "rate": 32,
+    "cost": 28.8
+  },
+  {
+    "item_name": "SIZODON-3 TAB 10'S",
+    "qty": 14,
+    "mrp": 61,
+    "rate": 43.57,
+    "cost": 39.21
+  },
+  {
+    "item_name": "SIZODON-4 TAB 10'S",
+    "qty": 12,
+    "mrp": 73.47,
+    "rate": 52.48,
+    "cost": 47.23
+  },
+  {
+    "item_name": "SIZODON-FORTE TAB             10'S",
+    "qty": 24,
+    "mrp": 119.5,
+    "rate": 85.36,
+    "cost": 76.82
+  },
+  {
+    "item_name": "SIZODON-LS TAB10'S",
+    "qty": 46,
+    "mrp": 78.5,
+    "rate": 56.07,
+    "cost": 50.46
+  },
+  {
+    "item_name": "SIZODON-MD 0.5 TAB            10'S",
+    "qty": 38,
+    "mrp": 32,
+    "rate": 22.86,
+    "cost": 20.57
+  },
+  {
+    "item_name": "SIZODON-PLUS TAB              10'S",
+    "qty": 38,
+    "mrp": 97,
+    "rate": 69.29,
+    "cost": 62.36
+  },
+  {
+    "item_name": "SIZOPIN-100 TAB               10'S",
+    "qty": 40,
+    "mrp": 84.44,
+    "rate": 60.31,
+    "cost": 54.28
+  },
+  {
+    "item_name": "SIZOPIN-200 TAB               10'S",
+    "qty": 9,
+    "mrp": 241,
+    "rate": 172.14,
+    "cost": 154.93
+  },
+  {
+    "item_name": "SIZOPIN-25 TAB10'S",
+    "qty": 55,
+    "mrp": 31.18,
+    "rate": 22.27,
+    "cost": 20.04
+  },
+  {
+    "item_name": "SIZOPIN-50 TAB10'S",
+    "qty": 23,
+    "mrp": 51.85,
+    "rate": 37.04,
+    "cost": 33.33
+  },
+  {
+    "item_name": "SOMPRAZ-20 TAB15'S",
+    "qty": 21,
+    "mrp": 109,
+    "rate": 77.86,
+    "cost": 70.07
+  },
+  {
+    "item_name": "SOMPRAZ-40 TAB15'S",
+    "qty": 97,
+    "mrp": 152.5,
+    "rate": 108.93,
+    "cost": 98.04
+  },
+  {
+    "item_name": "SOMPRAZ-D 20 CAP              15'S",
+    "qty": 18,
+    "mrp": 170,
+    "rate": 121.43,
+    "cost": 109.29
+  },
+  {
+    "item_name": "SOMPRAZ-D 40 CAP              15'S",
+    "qty": 223,
+    "mrp": 230,
+    "rate": 164.29,
+    "cost": 147.86
+  },
+  {
+    "item_name": "SOMPRAZ-HP TAB6'S",
+    "qty": 73,
+    "mrp": 215,
+    "rate": 153.57,
+    "cost": 138.21
+  },
+  {
+    "item_name": "SOMPRAZ-IT CAP10'S",
+    "qty": 14,
+    "mrp": 240,
+    "rate": 171.43,
+    "cost": 154.29
+  },
+  {
+    "item_name": "SOMPRAZ-L CAP 10'S",
+    "qty": 86,
+    "mrp": 274,
+    "rate": 195.71,
+    "cost": 176.14
+  },
+  {
+    "item_name": "SONATA LR CAP 10'S",
+    "qty": 11,
+    "mrp": 409,
+    "rate": 277.29,
+    "cost": 249.56
+  },
+  {
+    "item_name": "SPEEDRAL HEALTH SUPPL         10'S",
+    "qty": 20,
+    "mrp": 156,
+    "rate": 105.76,
+    "cost": 95.19
+  },
+  {
+    "item_name": "STROCIT PLUS TAB              10'S",
+    "qty": 4,
+    "mrp": 799,
+    "rate": 570.71,
+    "cost": 513.64
+  },
+  {
+    "item_name": "STROCIT-500 TAB               10'S",
+    "qty": 6,
+    "mrp": 699,
+    "rate": 499.29,
+    "cost": 449.36
+  },
+  {
+    "item_name": "SULPITAC 100 TAB              10'S",
+    "qty": 33,
+    "mrp": 162,
+    "rate": 115.71,
+    "cost": 104.14
+  },
+  {
+    "item_name": "SULPITAC 200 TAB              10'S",
+    "qty": 18,
+    "mrp": 305,
+    "rate": 217.86,
+    "cost": 196.07
+  },
+  {
+    "item_name": "SULPITAC 300 TAB              10'S",
+    "qty": 21,
+    "mrp": 350,
+    "rate": 250,
+    "cost": 225
+  },
+  {
+    "item_name": "SULPITAC 400 TAB              10 S",
+    "qty": 6,
+    "mrp": 500,
+    "rate": 357.14,
+    "cost": 321.43
+  },
+  {
+    "item_name": "SULPITAC 50 TAB               10'S",
+    "qty": 46,
+    "mrp": 102,
+    "rate": 72.86,
+    "cost": 65.57
+  },
+  {
+    "item_name": "SUMINAT 25 TAB1'S",
+    "qty": 21,
+    "mrp": 37.35,
+    "rate": 26.68,
+    "cost": 24.01
+  },
+  {
+    "item_name": "SUPERIA TAB   15'S",
+    "qty": 15,
+    "mrp": 152,
+    "rate": 108.57,
+    "cost": 97.71
+  },
+  {
+    "item_name": "SUPERIA-DSR TAB               10'S",
+    "qty": 10,
+    "mrp": 165,
+    "rate": 117.86,
+    "cost": 106.07
+  },
+  {
+    "item_name": "SUSTEN 100 CAP10'S",
+    "qty": 60,
+    "mrp": 169,
+    "rate": 120.71,
+    "cost": 108.64
+  },
+  {
+    "item_name": "SUSTEN 200 CAP10'S",
+    "qty": 20,
+    "mrp": 343.35,
+    "rate": 245.25,
+    "cost": 220.73
+  },
+  {
+    "item_name": "SUSTEN 300 CAP10'S",
+    "qty": 27,
+    "mrp": 520,
+    "rate": 371.43,
+    "cost": 334.29
+  },
+  {
+    "item_name": "SUSTEN 400 CAP10'S",
+    "qty": 6,
+    "mrp": 604,
+    "rate": 431.43,
+    "cost": 388.29
+  },
+  {
+    "item_name": "SUSTEN-100 INJ.               1ML",
+    "qty": 22,
+    "mrp": 149,
+    "rate": 106.43,
+    "cost": 95.79
+  },
+  {
+    "item_name": "SUSTEN-200 INJ.               2ML",
+    "qty": 20,
+    "mrp": 268,
+    "rate": 191.43,
+    "cost": 172.29
+  },
+  {
+    "item_name": "SUSTEN-SR 200 TAB             10'S",
+    "qty": 38,
+    "mrp": 456,
+    "rate": 325.71,
+    "cost": 293.14
+  },
+  {
+    "item_name": "SUSTEN-SR 300 TAB             10'S",
+    "qty": 17,
+    "mrp": 671,
+    "rate": 479.29,
+    "cost": 431.36
+  },
+  {
+    "item_name": "SUSTEN-SR 400 CAP             10'S",
+    "qty": 7,
+    "mrp": 785,
+    "rate": 560.71,
+    "cost": 504.64
+  },
+  {
+    "item_name": "SUSTEN-VT 200 TAB             10'S",
+    "qty": 6,
+    "mrp": 416,
+    "rate": 297.14,
+    "cost": 267.43
+  },
+  {
+    "item_name": "SYNCAPONE-100 TAB             10'S",
+    "qty": 32,
+    "mrp": 117,
+    "rate": 83.57,
+    "cost": 75.21
+  },
+  {
+    "item_name": "SYNCAPONE-50 TAB              10'S",
+    "qty": 31,
+    "mrp": 101,
+    "rate": 72.14,
+    "cost": 64.93
+  },
+  {
+    "item_name": "SYNDOPA CR 125 TAB            10 S",
+    "qty": 37,
+    "mrp": 30.55,
+    "rate": 21.82,
+    "cost": 19.64
+  },
+  {
+    "item_name": "SYNDOPA-110 TAB               15'S",
+    "qty": 191,
+    "mrp": 26.37,
+    "rate": 18.84,
+    "cost": 16.95
+  },
+  {
+    "item_name": "SYNDOPA-275 TAB               10'S",
+    "qty": 81,
+    "mrp": 44.12,
+    "rate": 31.51,
+    "cost": 28.36
+  },
+  {
+    "item_name": "SYNDOPA-CR TAB10'S",
+    "qty": 110,
+    "mrp": 47.26,
+    "rate": 33.76,
+    "cost": 30.38
+  },
+  {
+    "item_name": "SYNDOPA-PLUS TAB              15'S",
+    "qty": 367,
+    "mrp": 38.64,
+    "rate": 27.6,
+    "cost": 24.84
+  },
+  {
+    "item_name": "TEAR DROPS GEL E/D            10ML",
+    "qty": " -1",
+    "mrp": 134.21,
+    "rate": 95.86,
+    "cost": 86.28
+  },
+  {
+    "item_name": "TEAR-DROP     1S",
+    "qty": 20,
+    "mrp": 158.7,
+    "rate": 113.36,
+    "cost": 102.02
+  },
+  {
+    "item_name": "TETRAFOL PLUS TAB             10'S",
+    "qty": 25,
+    "mrp": 235,
+    "rate": 167.86,
+    "cost": 151.07
+  },
+  {
+    "item_name": "THIOACT-4 CAP 10'S",
+    "qty": 16,
+    "mrp": 186,
+    "rate": 132.86,
+    "cost": 119.57
+  },
+  {
+    "item_name": "TIGATEL AMH 4010'S",
+    "qty": 22,
+    "mrp": 112,
+    "rate": 80,
+    "cost": 72
+  },
+  {
+    "item_name": "TIGATEL-20 TAB10'S",
+    "qty": 18,
+    "mrp": 45.25,
+    "rate": 32.32,
+    "cost": 29.09
+  },
+  {
+    "item_name": "TIGATEL-40 TAB20'S",
+    "qty": 49,
+    "mrp": 163.85,
+    "rate": 117.04,
+    "cost": 105.33
+  },
+  {
+    "item_name": "TIGATEL-80 TAB10'S",
+    "qty": 11,
+    "mrp": 112.77,
+    "rate": 80.55,
+    "cost": 72.5
+  },
+  {
+    "item_name": "TIGATEL-AM 40 TAB             20'S",
+    "qty": 23,
+    "mrp": 247,
+    "rate": 176.43,
+    "cost": 158.79
+  },
+  {
+    "item_name": "TIGATEL-CH 40 TAB             10'S",
+    "qty": 25,
+    "mrp": 122,
+    "rate": 87.14,
+    "cost": 78.43
+  },
+  {
+    "item_name": "TIGATEL-H 40 TAB              10'S",
+    "qty": 29,
+    "mrp": 123,
+    "rate": 87.86,
+    "cost": 79.07
+  },
+  {
+    "item_name": "TIMOLET-OD 0.5%               1'S",
+    "qty": 20,
+    "mrp": 44.4,
+    "rate": 31.71,
+    "cost": 28.54
+  },
+  {
+    "item_name": "TIZAN-2 TAB   10'S",
+    "qty": 43,
+    "mrp": 164,
+    "rate": 117.14,
+    "cost": 105.43
+  },
+  {
+    "item_name": "TOBA-DM DROP  10ML",
+    "qty": 24,
+    "mrp": 27,
+    "rate": 19.29,
+    "cost": 17.36
+  },
+  {
+    "item_name": "TRAPIC-500 TAB10'S",
+    "qty": 19,
+    "mrp": 202.4,
+    "rate": 154.21,
+    "cost": 138.79
+  },
+  {
+    "item_name": "TRAPIC-650 TAB10'S",
+    "qty": 7,
+    "mrp": 354,
+    "rate": 269.71,
+    "cost": 242.74
+  },
+  {
+    "item_name": "TRAPIC-E TAB  10'S",
+    "qty": 5,
+    "mrp": 271,
+    "rate": 193.57,
+    "cost": 174.21
+  },
+  {
+    "item_name": "TRAPIC-MF TAB 10'S",
+    "qty": 20,
+    "mrp": 415,
+    "rate": 296.43,
+    "cost": 266.79
+  },
+  {
+    "item_name": "TRAZINE-H TAB 10'S",
+    "qty": 50,
+    "mrp": 13,
+    "rate": 9.29,
+    "cost": 8.36
+  },
+  {
+    "item_name": "TRIGABANTIN 100 TAB           10'S",
+    "qty": 14,
+    "mrp": 178,
+    "rate": 127.14,
+    "cost": 114.43
+  },
+  {
+    "item_name": "TRIGABANTIN 300 TAB           10'S",
+    "qty": 1,
+    "mrp": 291,
+    "rate": 207.86,
+    "cost": 187.07
+  },
+  {
+    "item_name": "TRIGLUCORED FORTE TAB         10'S",
+    "qty": 99,
+    "mrp": 110,
+    "rate": 78.57,
+    "cost": 70.71
+  },
+  {
+    "item_name": "TRIOLMEZEST-20 TAB            10'S",
+    "qty": 73,
+    "mrp": 176,
+    "rate": 125.71,
+    "cost": 113.14
+  },
+  {
+    "item_name": "TRIOLMEZEST-40 TAB            10'S",
+    "qty": 75,
+    "mrp": 247,
+    "rate": 176.43,
+    "cost": 158.79
+  },
+  {
+    "item_name": "TRIOLMEZEST-CH 20 TAB         10'S",
+    "qty": 15,
+    "mrp": 126,
+    "rate": 90,
+    "cost": 81
+  },
+  {
+    "item_name": "TRIOLMEZEST-CH 40 TAB         10'S",
+    "qty": 14,
+    "mrp": 223,
+    "rate": 159.29,
+    "cost": 143.36
+  },
+  {
+    "item_name": "TRIVOLIB DS 1MG TABLETS       10 S",
+    "qty": 10,
+    "mrp": 128,
+    "rate": 91.43,
+    "cost": 82.29
+  },
+  {
+    "item_name": "TRIVOLIB DS 2MG TABLETS       10 S",
+    "qty": 10,
+    "mrp": 148.96,
+    "rate": 106.4,
+    "cost": 95.76
+  },
+  {
+    "item_name": "TRIVOLIB FORTE-1 TAB          10'S",
+    "qty": 17,
+    "mrp": 193.5,
+    "rate": 138.21,
+    "cost": 124.39
+  },
+  {
+    "item_name": "TRIVOLIB FORTE-2 TAB          15'S",
+    "qty": 24,
+    "mrp": 235.5,
+    "rate": 168.21,
+    "cost": 151.39
+  },
+  {
+    "item_name": "TRIVOLIB-1 TAB10'S",
+    "qty": 14,
+    "mrp": 244.5,
+    "rate": 174.64,
+    "cost": 157.18
+  },
+  {
+    "item_name": "TRIVOLIB-2 TAB10'S",
+    "qty": 21,
+    "mrp": 327,
+    "rate": 233.57,
+    "cost": 210.21
+  },
+  {
+    "item_name": "URSOCOL-150 TAB               10'S",
+    "qty": 10,
+    "mrp": 304.5,
+    "rate": 232,
+    "cost": 208.8
+  },
+  {
+    "item_name": "URSOCOL-300 TAB               15'S",
+    "qty": 26,
+    "mrp": 523,
+    "rate": 398.48,
+    "cost": 358.63
+  },
+  {
+    "item_name": "VENIZ-XR 150 CAP              10'S",
+    "qty": 10,
+    "mrp": 190,
+    "rate": 135.71,
+    "cost": 122.14
+  },
+  {
+    "item_name": "VENIZ-XR 37.5 CAP             10'S",
+    "qty": 4,
+    "mrp": 60,
+    "rate": 42.86,
+    "cost": 38.57
+  },
+  {
+    "item_name": "VENIZ-XR 75 CAP               10'S",
+    "qty": 60,
+    "mrp": 118,
+    "rate": 84.29,
+    "cost": 75.86
+  },
+  {
+    "item_name": "VILANO-20 TAB 10'S",
+    "qty": 12,
+    "mrp": 205,
+    "rate": 146.43,
+    "cost": 131.79
+  },
+  {
+    "item_name": "VOLIBO 0.2 TAB10'S",
+    "qty": 18,
+    "mrp": 107,
+    "rate": 76.43,
+    "cost": 68.79
+  },
+  {
+    "item_name": "VOLIBO 0.3 TAB10'S",
+    "qty": 23,
+    "mrp": 143,
+    "rate": 102.14,
+    "cost": 91.93
+  },
+  {
+    "item_name": "VOLIBO R 0.2/0.5 TAB          10'S",
+    "qty": 6,
+    "mrp": 128,
+    "rate": 91.43,
+    "cost": 82.29
+  },
+  {
+    "item_name": "VOLIBO R 0.2/1 TAB            10'S",
+    "qty": 4,
+    "mrp": 128,
+    "rate": 91.43,
+    "cost": 82.29
+  },
+  {
+    "item_name": "VOLIBO R 0.3/0.5 TAB          10'S",
+    "qty": 9,
+    "mrp": 146,
+    "rate": 104.29,
+    "cost": 93.86
+  },
+  {
+    "item_name": "VOLIBO R 0.3/1 TAB            10'S",
+    "qty": 4,
+    "mrp": 160,
+    "rate": 114.29,
+    "cost": 102.86
+  },
+  {
+    "item_name": "VOLIBO-M 0.2 TAB              10'S",
+    "qty": 15,
+    "mrp": 135,
+    "rate": 96.43,
+    "cost": 86.79
+  },
+  {
+    "item_name": "VOLIBO-M 0.3 TAB              10'S",
+    "qty": 8,
+    "mrp": 169,
+    "rate": 120.71,
+    "cost": 108.64
+  },
+  {
+    "item_name": "VSL#3 TAB     10'S",
+    "qty": 21,
+    "mrp": 420,
+    "rate": 300,
+    "cost": 270
+  },
+  {
+    "item_name": "WINOLAP-5 TAB 10'S",
+    "qty": " -1",
+    "mrp": 125,
+    "rate": 10,
+    "cost": 80.36
+  },
+  {
+    "item_name": "ZEPTOL-100 TAB10'S",
+    "qty": 10,
+    "mrp": 12.6,
+    "rate": 9,
+    "cost": 8.1
+  },
+  {
+    "item_name": "ZEPTOL-200 TAB10'S",
+    "qty": 51,
+    "mrp": 17.1,
+    "rate": 12.21,
+    "cost": 10.99
+  },
+  {
+    "item_name": "ZEPTOL-CR 200 TAB             10'S",
+    "qty": 55,
+    "mrp": 23.96,
+    "rate": 17.11,
+    "cost": 15.4
+  },
+  {
+    "item_name": "ZEPTOL-CR 300 TAB             10'S",
+    "qty": 58,
+    "mrp": 40,
+    "rate": 28.57,
+    "cost": 25.71
+  },
+  {
+    "item_name": "ZEPTOL-CR 400 TAB             10'S",
+    "qty": 34,
+    "mrp": 46.59,
+    "rate": 33.28,
+    "cost": 29.95
+  },
+  {
+    "item_name": "ZIPSYDON-40 CAP               10'S",
+    "qty": 7,
+    "mrp": 183,
+    "rate": 130.71,
+    "cost": 117.64
+  },
+  {
+    "item_name": "ZITOTEC-200 TAB               4'S",
+    "qty": 78,
+    "mrp": 75.8,
+    "rate": 54.14,
+    "cost": 43.86
+  },
+  {
+    "item_name": "ZONISEP 100 TAB               10'S",
+    "qty": 26,
+    "mrp": 210,
+    "rate": 150,
+    "cost": 135
+  },
+  {
+    "item_name": "ZONISEP 50 TAB10'S",
+    "qty": 8,
+    "mrp": 102,
+    "rate": 72.86,
+    "cost": 65.57
+  },
+  {
+    "item_name": "ZOSERT-50 TAB 10'S",
+    "qty": 10,
+    "mrp": 116,
+    "rate": 82.86,
+    "cost": 74.57
+  }
+]

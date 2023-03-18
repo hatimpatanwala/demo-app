@@ -1,0 +1,10 @@
+.btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.listen-spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
