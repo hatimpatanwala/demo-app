@@ -45,25 +45,51 @@ const SpeechRecoginitionComponent: React.FC = () => {
       position: position,
     });
   };
-  SpeechRecognition.addListener('partialResults', (result) => {
-    if (result.matches && result.matches.length > 0) {
-      filtering(result.matches[0]);
-    }
-    console.log(result);
-  });
+
   const startRecognition = async (): Promise<void> => {
     try {
       const available = await SpeechRecognition.available();
       if (available) {
         setIsSpeaking(true);
         SpeechRecognition.start({
-          language: 'en-US',
+          language: 'en-IN',
           // maxResults: 2,
-          // prompt: 'Say something',
-          partialResults: true,
-          // popup: true,
-        });
+          prompt: 'Say medicine name',
+          partialResults: false,
+          popup: false,
+        })
+          .then(async (result) => {
+            console.log('then result', result);
+            if (result.matches && result.matches.length > 0) {
+              filtering(result.matches[0]);
+            }
+
+            console.log(result);
+            await StopRecognition();
+            setIsSpeaking(false);
+          })
+          .catch(async (err) => {
+            console.log(err);
+            await StopRecognition();
+          });
+
+        // if (result.matches && result.matches.length > 0) {
+        //   filtering(result.matches[0]);
+        //   setTranssrcript(result.matches[0]);
+        // }
+        // console.log(result);
+        // await StopRecognition();
       }
+
+      // SpeechRecognition.addListener('partialResults', async (result) => {
+      //   console.log(result);
+      //   if (result.matches && result.matches.length > 0) {
+      //     filtering(result.matches[0]);
+      //     setTranssrcript(result.matches[0]);
+      //   }
+      //   console.log(result);
+      //   await StopRecognition();
+      // });
     } catch (err) {
       console.log(err);
       presentToast(
@@ -90,6 +116,7 @@ const SpeechRecoginitionComponent: React.FC = () => {
       }
     });
     console.log(result1);
+    setTranssrcript(e);
     setFilterData(result1);
   };
   return (
@@ -99,8 +126,15 @@ const SpeechRecoginitionComponent: React.FC = () => {
           {!isSpeaking ? (
             <IonButton onClick={startRecognition}>Start</IonButton>
           ) : (
-            <IonButton onClick={StopRecognition}>Stop</IonButton>
+            <IonButton>Listening</IonButton>
           )}
+          <IonButton
+            onClick={() => {
+              filtering(' ');
+            }}
+          >
+            Clear all
+          </IonButton>
         </div>
         {/* <IonInput placeholder='Enter text' onInput={filtering}></IonInput> */}
         {isSpeaking && (
@@ -120,18 +154,17 @@ const SpeechRecoginitionComponent: React.FC = () => {
                 <IonCol>Cost</IonCol>
                 <IonCol>Rate</IonCol>
               </IonRow>
-              {filteredData?.length &&
-                filteredData.map((d: DataI, index) => {
-                  return (
-                    <IonRow key={index}>
-                      <IonCol>{d.item_name}</IonCol>
-                      <IonCol>{d.qty}</IonCol>
-                      <IonCol>{d.mrp}</IonCol>
-                      <IonCol>{d.cost}</IonCol>
-                      <IonCol>{d.rate}</IonCol>
-                    </IonRow>
-                  );
-                })}
+              {filteredData.map((d: DataI, index) => {
+                return (
+                  <IonRow key={index}>
+                    <IonCol>{d.item_name}</IonCol>
+                    <IonCol>{d.qty}</IonCol>
+                    <IonCol>{d.mrp}</IonCol>
+                    <IonCol>{d.cost}</IonCol>
+                    <IonCol>{d.rate}</IonCol>
+                  </IonRow>
+                );
+              })}
             </IonGrid>
           </div>
         )}
